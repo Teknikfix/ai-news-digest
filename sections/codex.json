@@ -1,0 +1,152 @@
+{
+  "id": "codex",
+  "title": "Codex",
+  "groups": [
+    {
+      "kind": "news",
+      "label": "Nyheter",
+      "items": [
+        {
+          "title": "AI Reverse Engineering Replicates Software, Sparks Controversy",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGRUdEI2NVV4NDBrM3JJNWVvU3d4TzVqZmhZNWxxd2ZzVXBOM01pZnY2RnlpUW1ZSWVqUEdQTDl6b056M19NTFpHYUliUUtCeDFDd05DTWNza2ZQSXdUM0hTYndJX1VPSTBVeXJBSjlHYnFqcF9FanVrNno4RWVlQVA1TEttTVA5?oc=5",
+          "source": "조선일보",
+          "date": "2026-10-18 15:37",
+          "description": "AI Reverse Engineering Replicates Software, Sparks Controversy &nbsp;&nbsp; 조선일보",
+          "metric": ""
+        },
+        {
+          "title": "OpenAI shares case of automating software maintenance using GPT-6",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDJlOWQ2V0FnVFllUU1MaEUtNW4tMEdGVTNLbjNCQkdHU28wcnVtb3B6ekRjWnplT3JlVG5iYVo1Q3Z1NFF4S2FmVmNwYUZZY1BKOVJsRkJ3dEZuVXlHOTg3dEtFQ19sS0hobVdqcFdMNUxUeS1TV3o5YjRCMWdJOEVFZ082X08tY0VzU21TdU1LbVo2NE5fQkpvY0tjYk50UUJSMGdERmRIXzYzaHFNUg?oc=5",
+          "source": "디지털투데이",
+          "date": "2026-10-18 12:08",
+          "description": "OpenAI shares case of automating software maintenance using GPT-6 &nbsp;&nbsp; 디지털투데이",
+          "metric": ""
+        },
+        {
+          "title": "OpenCode breach drains users' AI keys, with one reporting $1,700 in losses",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeHVRWTdjb292ZkpPOFFFeVZvd1FDSTR1LWZHU19jdWZOd1J1anNNMDM1NnhndDBwSkdEcmdpdHY4b3o4U1BlS2xBM3d1M0laQ0xYNEpueHlsVG1HMGlGbmZ1QjlCd1hTX21iVnlsUGExaHdlNUJGS01pcEdpZ3hTZzlIOVJMMkFCR0lBYUVTRnhxZjk2cE1La2JjbnExZjRkZXZTcEJnWUM?oc=5",
+          "source": "Dealroom",
+          "date": "2026-10-18 07:04",
+          "description": "OpenCode breach drains users' AI keys, with one reporting $1,700 in losses &nbsp;&nbsp; Dealroom",
+          "metric": ""
+        },
+        {
+          "title": "AI Reverse Engineering Replicates Adobe, Microsoft Software",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcFphOWlDWVdCWl9LUnlaWGdoX2JuUUNaODVxaVR6YmdHMHZldVd3WFpJendhSWxCcW9zWkZwV250bk1LRy1nR2JFXy1XWUpkdUphZlpaQnZRMGFmc2RDRnU0aGRDdV9fNWpCYzVCemREcU84dkVKV1ZXUjhlTWtQS25XVm5PTlpr?oc=5",
+          "source": "조선일보",
+          "date": "2026-10-18 06:53",
+          "description": "AI Reverse Engineering Replicates Adobe, Microsoft Software &nbsp;&nbsp; 조선일보",
+          "metric": ""
+        },
+        {
+          "title": "Codex Desktop Fills Mac Disks With Unbounded Crash Dumps in Handler Loop",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGVOM2FlVFBmblFEeGxxc0djcnItX1ZKSmhjWVJqS1YzT1Q1M0lxbXM3TDE5MXMzalhNekFmdFNmVENfNzBkdkR1NGNGTkIwek41X1FoSWZUVFFvMVRfZTJjM1VVSDROQVUzNE5meEFqc0Q3dWg3cl83NGJjM1g0Wm9mYjNKSzB2bng4bnhXaG1uUnFyM0l1TmM5Q2RQdjJhb3Rr?oc=5",
+          "source": "news.lavx.hu",
+          "date": "2026-10-18 01:43",
+          "description": "Codex Desktop Fills Mac Disks With Unbounded Crash Dumps in Handler Loop &nbsp;&nbsp; news.lavx.hu",
+          "metric": ""
+        },
+        {
+          "title": "ForgeCode claims it beats Claude Code and Codex, but the fine print tells another story",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM0p2OW9XaU1lRFdwQVhTRU9aQXJvb0txWG5Gd1A0cl84dVN0eW5SVkZKNlFUQUFwTmloNWl0S0FPa19iLVRnSXlnTHFCeTFrS25PX1R1ek1EOXZmdGpHSTdNRWE4NV9FMHFjcHkxc0U2M19zV2dkMXFVYW9KRnZSbUZTNUFlZXBiQ1lYMjVmbENYN19sUGsyUEViQnhVb1NfVHpNbkltZGsxNzJMOXlEYzhUa1I?oc=5",
+          "source": "Startup Fortune",
+          "date": "2026-10-18 00:09",
+          "description": "ForgeCode claims it beats Claude Code and Codex, but the fine print tells another story &nbsp;&nbsp; Startup Fortune",
+          "metric": ""
+        },
+        {
+          "title": "Codex Desktop continuously generates Crashpad pending dumps",
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "Hacker News",
+          "date": "2026-10-17 17:45",
+          "description": "",
+          "metric": "▲ 166 · 81 kommentarer"
+        },
+        {
+          "title": "Codex CLI 0.163 Update: Mid-Response Steering by Default",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vRHpqcnFCYl94bmhLaWpzVDBMNS1NMVRIdHg3TTRfVDI2cWFacllLTHI5RFpzVEtVOERkakh6bldKU2V4MmNYbWRqNE1YaHBKVElySE5HcmtIenhaYmhnYmNUNjItWXQ1OFRjN01MVGM?oc=5",
+          "source": "https://tech-insider.org/",
+          "date": "2026-10-17 13:40",
+          "description": "Codex CLI 0.163 Update: Mid-Response Steering by Default &nbsp;&nbsp; https://tech-insider.org/",
+          "metric": ""
+        }
+      ]
+    },
+    {
+      "kind": "release",
+      "label": "Releaser",
+      "items": [
+        {
+          "title": "@openai/codex 0.164.0-alpha.3",
+          "url": "https://www.npmjs.com/package/@openai/codex/v/0.164.0-alpha.3",
+          "source": "npm release",
+          "date": "2026-10-17 04:14",
+          "description": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
+          "metric": "0.164.0-alpha.3"
+        },
+        {
+          "title": "openai/codex: 0.164.0-alpha.3",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.3",
+          "source": "GitHub release",
+          "date": "2026-10-17 04:03",
+          "description": "Release 0.164.0-alpha.3",
+          "metric": "rust-v0.164.0-alpha.3"
+        }
+      ]
+    },
+    {
+      "kind": "community",
+      "label": "Nya repos, skills & plugins",
+      "items": [
+        {
+          "title": "hgn389/Display-usage-limits-in-9router",
+          "url": "https://github.com/hgn389/Display-usage-limits-in-9router",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 18:02",
+          "description": "Display usage limits in 9router, similar to OpenAI Codex, ...",
+          "metric": "★ 1"
+        },
+        {
+          "title": "skadi-1894/harness-relay",
+          "url": "https://github.com/skadi-1894/harness-relay",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 15:42",
+          "description": "Local OpenAI-compatible API for Codex and Claude Code. Reuse your subscriptions through a single self-hosted relay.",
+          "metric": "★ 1"
+        },
+        {
+          "title": "okiddo/imggen-api",
+          "url": "https://github.com/okiddo/imggen-api",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 10:30",
+          "description": "Generate and edit images in Codex through an OpenAI-compatible Images API.",
+          "metric": "★ 1"
+        },
+        {
+          "title": "IZnaux668-prog/codex-responses-bridge",
+          "url": "https://github.com/IZnaux668-prog/codex-responses-bridge",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 06:11",
+          "description": "Codex接入Openai格式API脚本",
+          "metric": "★ 1"
+        },
+        {
+          "title": "Tiggy-Chan/codex-auto-resume",
+          "url": "https://github.com/Tiggy-Chan/codex-auto-resume",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 05:26",
+          "description": "Automated background supervisor for OpenAI Codex App: seamlessly auto-resumes paused or usage-limited thread goals upon 5-hour resets or unannounced Tibo quota refills, 100% silent with zero focus stealing.",
+          "metric": "★ 1"
+        },
+        {
+          "title": "Goudu666/codex-app-server-mcp",
+          "url": "https://github.com/Goudu666/codex-app-server-mcp",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 16:23",
+          "description": "MCP server that lets Claude Code drive OpenAI Codex via codex app-server — persistent threads, async turns, resume, interrupts.",
+          "metric": "★ 1"
+        }
+      ]
+    }
+  ]
+}

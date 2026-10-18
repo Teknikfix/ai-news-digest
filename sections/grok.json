@@ -1,0 +1,135 @@
+{
+  "id": "grok",
+  "title": "Grok",
+  "groups": [
+    {
+      "kind": "news",
+      "label": "Nyheter",
+      "items": [
+        {
+          "title": "Tesla and SpaceXAI Activity on X Fuels Merger Speculation",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFhnMVpmR013UThYcENxUUhzUXNDQ3h0ZW1UU1lXVjRlLUJiYUJneXBJZ3Boc2VVUVFnVlZaTGFHblRIRFJ5MGZRdzZiUlFFdlllZ1h4bXI4M2JfMGVPc1pwQVlkWHlSR2lSaXJQRTE3OE9EUjY0Z1NXa3ItNTBCZDVsWGxvUQ?oc=5",
+          "source": "Drive Tesla Canada",
+          "date": "2026-10-18 20:17",
+          "description": "Tesla and SpaceXAI Activity on X Fuels Merger Speculation &nbsp;&nbsp; Drive Tesla Canada",
+          "metric": ""
+        },
+        {
+          "title": "Consumer apprehension grows as US retailers adopt AI-assisted pricing tools",
+          "url": "https://apnews.com/article/ai-prices-dynamic-customers-technology-64c446cd117d3be664de4ab570fb9857",
+          "source": "Hacker News",
+          "date": "2026-10-18 19:39",
+          "description": "",
+          "metric": "▲ 5 · 2 kommentarer"
+        },
+        {
+          "title": "Amazon, JPMorgan, Schwab And Delta Are All Blocking AI Agents: Here’s Why",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazcxZFp6allJYnV0dmVpRmw0dHhWRnItS3NzNXA0ZzluNXkydEdxUDRIcERZMG0zdjFqNTJ1alluNmJhM0NOdVc4YmNrRGtXdTRpeUt0MVNOUm5YR196a1FPX0R0Z0xkekIxWE9xZV8xamF1a2Fwa01fNndpTUZ4UmdFMzA5LU5EbWpubnpXcTJta1ViTDRZU3RKbm4?oc=5",
+          "source": "OfficeChai",
+          "date": "2026-10-18 18:09",
+          "description": "Amazon, JPMorgan, Schwab And Delta Are All Blocking AI Agents: Here’s Why &nbsp;&nbsp; OfficeChai",
+          "metric": ""
+        },
+        {
+          "title": "Show HN: Firmendaten: Parsed balance sheets for every Austrian company",
+          "url": "https://firmendaten.researchly.at/bilanzen/vergleichen",
+          "source": "Hacker News",
+          "date": "2026-10-18 16:41",
+          "description": "",
+          "metric": "▲ 3 · 0 kommentarer"
+        },
+        {
+          "title": "Websites are blocking AI agents from completing tasks for users",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUEF5QnFGdng3RjZ0QXhVcHpoZ2VEUEV2MFVHSk5PVUpaUmVrbG9EZ29qbzZ3X1pBdUg0SFBsRDFGNjhwWjhpZ255aG5UY2k3MmRzVEc0aWUwbm1GNkhtd05GMXljM0x3UXhlNU1fek5aQ3NDU2NMcDZHQVFITkljRDJoaFl6Nll0RDdwRE5qT1lTT2RzUGs0Rm81VnFDRTVINllpZlA3UjI5dlNFYnlF?oc=5",
+          "source": "NewsBytes",
+          "date": "2026-10-18 10:51",
+          "description": "Websites are blocking AI agents from completing tasks for users &nbsp;&nbsp; NewsBytes",
+          "metric": ""
+        },
+        {
+          "title": "Free software engineering: Grok Bot and OpenCode",
+          "url": "https://x.ai/bot/P3nFV22Z9JijoDHNWbTwf",
+          "source": "Hacker News",
+          "date": "2026-10-18 09:24",
+          "description": "",
+          "metric": "▲ 1 · 3 kommentarer"
+        },
+        {
+          "title": "Websites block AI agents, raising utility questions",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDBLc051UlNXN0EyRkFDSXRxcXNDLXIxbkxuQ1lFMlBXdDd5TVRRTEM3NWF1aTA1LWZReVZtLWV2M243YTh3MlN4bW9hVkFRdlBGbTJDYzBvbHdZXzNtYktWQmNwX01tSGRLNUtuelhjUjBpR0dvV0wzWG5UMVY0N2FYMVZtMHNiaTRiMHFYZTJpY19BclJHOHdDQdIBlwFBVV95cUxPTGV4aHNWZkNPUUd1NDh3c0Jsd2s2MkNrVFhLdjkzZmx6UlZuR3JDZmRsZ2hlV3UwRnBiMnZzeS1mdUtEa3hLUGhFd3U2VXpTaUw3ZlNlajNITGVISmdFNzJPODRVQ2RLVC1iQ0Frb2tZNWdNQ1ZuQVlZeTAxLWlLRWlKUTByRmdjTGhVMEVteXZsZ1BFektN?oc=5",
+          "source": "TechGig",
+          "date": "2026-10-18 07:52",
+          "description": "Websites block AI agents, raising utility questions &nbsp;&nbsp; TechGig",
+          "metric": ""
+        },
+        {
+          "title": "Amazon, Yelp, Delta, JPMorgan and Schwab confirm blocks on AI agents",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaDFlZ0tfODh4NkxNcUZ0R1BVS1FYbmVjU1RXWFJGcjRQcFZJTnBtNjllcUl1Wk5SdGZ4S3NTWjBGOENoenRCd1hZMzYybTNZOHZuNjM0OVltVHVqaVMtUEYxMTAtMVJ1d1RxTEhfV0JQVFlmbl91TXBZWndVekU4WUVka1BHTllfc2NKcjdjX3pfVXdCa05leQ?oc=5",
+          "source": "Pasquale Pillitteri",
+          "date": "2026-10-18 07:04",
+          "description": "Amazon, Yelp, Delta, JPMorgan and Schwab confirm blocks on AI agents &nbsp;&nbsp; Pasquale Pillitteri",
+          "metric": ""
+        }
+      ]
+    },
+    {
+      "kind": "release",
+      "label": "Releaser",
+      "items": []
+    },
+    {
+      "kind": "community",
+      "label": "Nya repos, skills & plugins",
+      "items": [
+        {
+          "title": "giuseppe44710/grok-self",
+          "url": "https://github.com/giuseppe44710/grok-self",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 09:24",
+          "description": "grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your terminal: one-shot prompts",
+          "metric": "★ 0"
+        },
+        {
+          "title": "ccaruso6441/grok-self",
+          "url": "https://github.com/ccaruso6441/grok-self",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 05:11",
+          "description": "grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your terminal: one-shot prompts",
+          "metric": "★ 0"
+        },
+        {
+          "title": "GokhanMoore/grok-self",
+          "url": "https://github.com/GokhanMoore/grok-self",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 22:08",
+          "description": "grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your terminal: one-shot prompts",
+          "metric": "★ 0"
+        },
+        {
+          "title": "pczh2010/GrokXai",
+          "url": "https://github.com/pczh2010/GrokXai",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 13:23",
+          "description": "",
+          "metric": "★ 0"
+        },
+        {
+          "title": "DieterGupta7449/grok-self",
+          "url": "https://github.com/DieterGupta7449/grok-self",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 05:39",
+          "description": "grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your terminal: one-shot prompts",
+          "metric": "★ 0"
+        },
+        {
+          "title": "Ciprian-LocalPulse/tokenpropulsion",
+          "url": "https://github.com/Ciprian-LocalPulse/tokenpropulsion",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 04:06",
+          "description": "Auditable task-contract prompt compression for Python: conservative defaults, synthetic benchmarks, optional xAI integration. Research alpha.",
+          "metric": "★ 1"
+        }
+      ]
+    }
+  ]
+}

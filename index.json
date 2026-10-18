@@ -1,0 +1,52 @@
+{
+  "name": "ai-news-digest",
+  "description": "Daily AI news digest for Kimi, Codex, Claude and Grok",
+  "updatedAt": "2026-10-18 21:40 UTC",
+  "lookbackDays": 2,
+  "endpoints": {
+    "latest": "latest.json",
+    "history": "history/2026-10-18.json",
+    "sections": [
+      {
+        "id": "kimi",
+        "title": "Kimi",
+        "counts": {
+          "news": 7,
+          "release": 0,
+          "community": 6
+        },
+        "file": "sections/kimi.json"
+      },
+      {
+        "id": "codex",
+        "title": "Codex",
+        "counts": {
+          "news": 8,
+          "release": 2,
+          "community": 6
+        },
+        "file": "sections/codex.json"
+      },
+      {
+        "id": "claude",
+        "title": "Claude",
+        "counts": {
+          "news": 8,
+          "release": 1,
+          "community": 6
+        },
+        "file": "sections/claude.json"
+      },
+      {
+        "id": "grok",
+        "title": "Grok",
+        "counts": {
+          "news": 8,
+          "release": 0,
+          "community": 6
+        },
+        "file": "sections/grok.json"
+      }
+    ]
+  }
+}

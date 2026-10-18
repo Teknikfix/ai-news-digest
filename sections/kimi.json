@@ -1,0 +1,127 @@
+{
+  "id": "kimi",
+  "title": "Kimi",
+  "groups": [
+    {
+      "kind": "news",
+      "label": "Nyheter",
+      "items": [
+        {
+          "title": "China's Teenage AI Prodigy Leaves Moonshot AI, Denies Moving to U.S. Anthropic",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ITjNDcjZoYlJNbWdNTTFrOEZiSHgxY0Q0QXNVYVowSVVTMkFyUzZCd05hZHE1RXpKNXJLbDRvZDV5bEJtOGlyN3BGMjVodmNlTHpxSnJ5SDlqMjZDcHNGSE9uQUhpZGdEbkJHZlNB?oc=5",
+          "source": "news.sbs.co.kr",
+          "date": "2026-10-18 12:17",
+          "description": "China's Teenage AI Prodigy Leaves Moonshot AI, Denies Moving to U.S. Anthropic &nbsp;&nbsp; news.sbs.co.kr",
+          "metric": ""
+        },
+        {
+          "title": "Teen Prodigy Behind Kimi Breakthrough Leaves Moonshot AI for U.S.",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEgzeUlLNlhPQUt1Z0c3SmdfN21DeHI1dE5HMjJLeWdkSTRYYm80R0hiWi1yOTlYYW1mT3dVOXBpa3ROY21vbGM4aE9KVFFaMVlGcWVsMW94VGRPM2ZFN3YyWlhBbDRFbFVGb0hFcnJYeHBVeWwtOHVtM3Q1TGlUMk9UUUlnc0dYaTNLbzlab29qUW1JcFppQzZqTkFwTm1lUng3WnBJTQ?oc=5",
+          "source": "Seoul Economic Daily",
+          "date": "2026-10-18 09:02",
+          "description": "Teen Prodigy Behind Kimi Breakthrough Leaves Moonshot AI for U.S. &nbsp;&nbsp; Seoul Economic Daily",
+          "metric": ""
+        },
+        {
+          "title": "Kimi K3 Beats GPT-6.1 Sol by 61 Elo Points [2026]",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRLVBkeDNOcjR0dWtWQThPQTUxTWYwMm1DYXNvcF9LN3NNbkJYY0RxN0prd3lEaGJOYmJZVFhKTERwQWp0ZzBfeEY3MUdzdktodzRiS0hyZEs0enlNajdtMVUzZw?oc=5",
+          "source": "shattered.io",
+          "date": "2026-10-18 07:57",
+          "description": "Kimi K3 Beats GPT-6.1 Sol by 61 Elo Points [2026] &nbsp;&nbsp; shattered.io",
+          "metric": ""
+        },
+        {
+          "title": "Chinese AI platform 'helped plan attack on London Underground'",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmJvZERCVHlmUWo3dTE2WFhGd2hXb2d5djBMcUJFN2ZkRXJxbG5KM3pEMHpDVjhFUlB6eHctSGN1MU9ZUVh6cy00aFRiX05nc2dsQ25YcmN3WEZBd2pEaWFIWmpJeFFJUGNCdm1saUxuVExXVFBBcGhIbjRTaS1vODdjcmd2and3Q2FqYS13bWc4TVNicDZkVi1sUnY5aUstTHN3VWFZUlNHWDdOOWfSAbMBQVVfeXFMTll4WGlYTmQ0M0hzc0tuNmpVY3E0WEp3TU45X3Q0NHFrR2ZEMm9YYVBEMFhLVFpfUkVDdHpVZW95aDU4TTFaVG8za3VacEF1dlFkb21aNWpDS09HSFYtd3FBQ3ZDOGt6NUtVZ1hqNUR3XzlMXzhRU1N1Rkh3alZFdUpxTFBrWGF4aVZ3ckpMejg2NDhtYzNVcnduS1haRlpHMGZPV2kyUnRLM1FBejRoejV0bFU?oc=5",
+          "source": "Metro.co.uk",
+          "date": "2026-10-18 06:00",
+          "description": "Chinese AI platform 'helped plan attack on London Underground' &nbsp;&nbsp; Metro.co.uk",
+          "metric": ""
+        },
+        {
+          "title": "Kimi's new credit card turns spending into AI credits but caps what you can redeem",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFozeElPMHZENHNhRjZNaG4zS0ZlR21wOG1PSjAtTVlLc1RkZnNmU2JMZ0twd29QR2lvQ2hQUFNyeXVPcmcza1AyNXNaYW9jamg0S1ZCRk5OMWx5MktNMG9oUHB0VW1OOFFCaWItSDhnSE1EVVN4NzRPZEhqRzFWcUw3V1lhVnpEbUVNbUs5My11a3kyc1g2Uk9uNDhFUHZGbG0tOVM3MkdTT01UX2c?oc=5",
+          "source": "Startup Fortune",
+          "date": "2026-10-17 11:34",
+          "description": "Kimi's new credit card turns spending into AI credits but caps what you can redeem &nbsp;&nbsp; Startup Fortune",
+          "metric": ""
+        },
+        {
+          "title": "Kimi’s AI credit card turns spending into computing quotas – with limits",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWmhRMXpyOGYzTi1BallOM1VRdWZzaFJuS1NRODc0YzNtTzVheGNqTm5UYjRINFR2eDYyVld2cTY1OGNNWDZzb2ZkWVNpUnM4NEtnRnVyZ1Y2bTZ4bkp4SVc2WUlJVnhMcUF6d1AwYmVSR1pGWHBZZXRMamZiZFdMb2xFSUt0dzkwMlRCdVIwWUk1S1ZTLWhOMUtHaGRISUU1anVRdV9IMWVjRl9mT0x2dGJCbDZwc0NEcER5Ti1GdnpTeU5oaXo4X1lGZF_SAcwBQVVfeXFMT0R4OEFGWTdlZTEzdnpLVmVLQkI0QlRlVVhhdk1aRWFrQjZxU0NGNGxHSVFybU80c1B3dTVuTXk5SHA3TVpScTRtVE03NnNNTDdES25XdE5wdTNvUTZkTnc0VGp0SnRGbGZzM09pUGdfd1RGVEJHZ3BjbVlYMmstd1F4VHFUeWlhNVFNZ1FlRlZvZl9STUk0YW4tSkhpZndMV1NaOE5mTUVUcVE1V1VhdGk0MnZqLXVXd2pxLWJzTjROSU8xRnR6Yk1NRUt0?oc=5",
+          "source": "South China Morning Post",
+          "date": "2026-10-17 08:00",
+          "description": "Kimi’s AI credit card turns spending into computing quotas – with limits &nbsp;&nbsp; South China Morning Post",
+          "metric": ""
+        },
+        {
+          "title": "Modular’s MAX Tops vLLM by 5.5x on Kimi K2.5 [2026]",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4U25NQURDdXNwclRhdFBWS1U3SkNhbWVSM0VmSnlpX245WHAwRUZtNUNrRTZPUFNkREE5amtOcGlObXkxNkVrR0N2VmRDdUVuUUNsYnlFZGJtRlZGZFlLWHIxWmVsRlRqMWZzbzk1MVM?oc=5",
+          "source": "shattered.io",
+          "date": "2026-10-17 07:00",
+          "description": "Modular’s MAX Tops vLLM by 5.5x on Kimi K2.5 [2026] &nbsp;&nbsp; shattered.io",
+          "metric": ""
+        }
+      ]
+    },
+    {
+      "kind": "release",
+      "label": "Releaser",
+      "items": []
+    },
+    {
+      "kind": "community",
+      "label": "Nya repos, skills & plugins",
+      "items": [
+        {
+          "title": "virginienair86/tmux-bridge-mcp",
+          "url": "https://github.com/virginienair86/tmux-bridge-mcp",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 21:42",
+          "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
+          "metric": "★ 0"
+        },
+        {
+          "title": "zou-hong-run/kimi-code-deepseek-search",
+          "url": "https://github.com/zou-hong-run/kimi-code-deepseek-search",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 11:16",
+          "description": "一个 Kimi Code CLI 插件：把 DeepSeek 原生的 Search / Fetch JSON API 注册为两个 MCP 工具——网页搜索和网页抓取。  它主要作为内置联网工具的兜底：当 Kimi Code 套餐不覆盖内置 web_search 时（例如返回 HTTP 403），Agent 可以改用本插件的工具，而不是反复重试。  零运行时依赖，只用 Node 内置的 fetch、readline 和 zlib。",
+          "metric": "★ 1"
+        },
+        {
+          "title": "Weicoz/agent-recall",
+          "url": "https://github.com/Weicoz/agent-recall",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 09:28",
+          "description": "Universal session recall & management CLI for AI coding agents (Claude Code, Codex, Antigravity, Kimi Code, DSH)",
+          "metric": "★ 0"
+        },
+        {
+          "title": "tguo9004/tmux-bridge-mcp",
+          "url": "https://github.com/tguo9004/tmux-bridge-mcp",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 05:40",
+          "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
+          "metric": "★ 0"
+        },
+        {
+          "title": "malikang22567/tmux-bridge-mcp",
+          "url": "https://github.com/malikang22567/tmux-bridge-mcp",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 05:32",
+          "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
+          "metric": "★ 0"
+        },
+        {
+          "title": "hancic128/agent-notifier",
+          "url": "https://github.com/hancic128/agent-notifier",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-17 04:53",
+          "description": "Push notifications for Claude Code, Codex CLI and Kimi Code — Feishu, Lark, Slack, Bark, DingTalk, WeCom, PushDeer and Bluebird.",
+          "metric": "★ 0"
+        }
+      ]
+    }
+  ]
+}
