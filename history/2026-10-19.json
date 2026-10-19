@@ -1,0 +1,590 @@
+{
+  "generatedAt": "2026-10-19 21:17 UTC",
+  "timezone": "UTC",
+  "lookbackDays": 2,
+  "sections": [
+    {
+      "id": "kimi",
+      "title": "Kimi",
+      "groups": [
+        {
+          "kind": "news",
+          "label": "Nyheter",
+          "items": [
+            {
+              "title": "Mercury 3 vs Kimi K3: otwarte wagi czy zamknięty wynajem",
+              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSzRBbDBrbkpqMl9BRy16TVQ2dC1mZWV5eDB4Z1pRZ2ZVQTFIZS1NSGdJdEYxVGV1UFZFUk1ZY0puT1FLWEdhd1d4MkY5S0VzVUZxdk5iY3hhcmtaZkoyZ04xX3Q?oc=5",
+              "source": "OrcaRouter",
+              "date": "2026-10-19 18:28",
+              "description": "Mercury 3 vs Kimi K3: otwarte wagi czy zamknięty wynajem &nbsp;&nbsp; OrcaRouter",
+              "metric": ""
+            },
+            {
+              "title": "17-year-old Chinese AI prodigy heads to the US amid fierce competition for tech talent.",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSHVNbTh5VUs0d2hPWFRLdXhJd0lUanJzRkk4RXFJWVM1a3RIMTNZS2c4djdkOW12UlNPUVU1QUZrRHVTV3BQODU2Uk9fYnpEZnhxczRsRjhaeWZDYkk2YkJfUGQ0akYwd2E0TGt3bGtZRDBFb3puLS1wYjRrTnhCQ2R0Y1dLODR1czFPbkc5VjNsM0dUZ3FiOHVvVmN2WER6ZWIxT3pZTzU?oc=5",
+              "source": "Vietnam.vn",
+              "date": "2026-10-19 09:44",
+              "description": "17-year-old Chinese AI prodigy heads to the US amid fierce competition for tech talent. &nbsp;&nbsp; Vietnam.vn",
+              "metric": ""
+            },
+            {
+              "title": "China's Teenage AI Prodigy Leaves Moonshot AI, Denies Moving to U.S. Anthropic",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1veEZYYmU1TzlJUU5yRWxGV3F4SXV2eDlxN0xBcjFXUkE5U25telhaMG9zbms2cG8zV2VJa1E2Q0ktSWcxSnJEalZvb0FCWFgzbHZtdzlFNm9jLWdGR0UyZVZpSlp2UQ?oc=5",
+              "source": "news.sbs.co.kr",
+              "date": "2026-10-18 12:17",
+              "description": "China's Teenage AI Prodigy Leaves Moonshot AI, Denies Moving to U.S. Anthropic &nbsp;&nbsp; news.sbs.co.kr",
+              "metric": ""
+            },
+            {
+              "title": "Teen Prodigy Behind Kimi Breakthrough Leaves Moonshot AI for U.S.",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEgzeUlLNlhPQUt1Z0c3SmdfN21DeHI1dE5HMjJLeWdkSTRYYm80R0hiWi1yOTlYYW1mT3dVOXBpa3ROY21vbGM4aE9KVFFaMVlGcWVsMW94VGRPM2ZFN3YyWlhBbDRFbFVGb0hFcnJYeHBVeWwtOHVtM3Q1TGlUMk9UUUlnc0dYaTNLbzlab29qUW1JcFppQzZqTkFwTm1lUng3WnBJTQ?oc=5",
+              "source": "Seoul Economic Daily",
+              "date": "2026-10-18 09:02",
+              "description": "Teen Prodigy Behind Kimi Breakthrough Leaves Moonshot AI for U.S. &nbsp;&nbsp; Seoul Economic Daily",
+              "metric": ""
+            },
+            {
+              "title": "Chinese AI platform 'helped plan attack on London Underground'",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmJvZERCVHlmUWo3dTE2WFhGd2hXb2d5djBMcUJFN2ZkRXJxbG5KM3pEMHpDVjhFUlB6eHctSGN1MU9ZUVh6cy00aFRiX05nc2dsQ25YcmN3WEZBd2pEaWFIWmpJeFFJUGNCdm1saUxuVExXVFBBcGhIbjRTaS1vODdjcmd2and3Q2FqYS13bWc4TVNicDZkVi1sUnY5aUstTHN3VWFZUlNHWDdOOWfSAbMBQVVfeXFMTll4WGlYTmQ0M0hzc0tuNmpVY3E0WEp3TU45X3Q0NHFrR2ZEMm9YYVBEMFhLVFpfUkVDdHpVZW95aDU4TTFaVG8za3VacEF1dlFkb21aNWpDS09HSFYtd3FBQ3ZDOGt6NUtVZ1hqNUR3XzlMXzhRU1N1Rkh3alZFdUpxTFBrWGF4aVZ3ckpMejg2NDhtYzNVcnduS1haRlpHMGZPV2kyUnRLM1FBejRoejV0bFU?oc=5",
+              "source": "Metro.co.uk",
+              "date": "2026-10-18 06:00",
+              "description": "Chinese AI platform 'helped plan attack on London Underground' &nbsp;&nbsp; Metro.co.uk",
+              "metric": ""
+            },
+            {
+              "title": "The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb0tIRTQ1MUFwZkk2TGMwckRaRDI2RUp3ZzBGYjdCaFo4ZWhUTzlrVzFEOWFMOERoakhGVnFPUUNBREZia3pCMmtpQUNtbFhvcm9IcnRORVdZNEpQWF8wdEY1Mzg1R2RqcndOU05GcjF3S19HLUVjcGp4WGJwazREUDI0eVlQOEJ0YVhMaW85SnVQZzdpQlVVaG03MFlEX1pvaS1mc2tGX0R6MjB0NjhvV0R3NmxWV1MxUk5nRHdid1NyWmpad3JUYXdqYWh4WU1tWnc?oc=5",
+              "source": "Stocktwits",
+              "date": "2026-10-18 01:42",
+              "description": "The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B &nbsp;&nbsp; Stocktwits",
+              "metric": ""
+            }
+          ]
+        },
+        {
+          "kind": "release",
+          "label": "Releaser",
+          "items": []
+        },
+        {
+          "kind": "community",
+          "label": "Nya repos, skills & plugins",
+          "items": [
+            {
+              "title": "elsa4971/tmux-bridge-mcp",
+              "url": "https://github.com/elsa4971/tmux-bridge-mcp",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 21:15",
+              "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
+              "metric": "★ 0"
+            },
+            {
+              "title": "Beatriceh4206/tmux-bridge-mcp",
+              "url": "https://github.com/Beatriceh4206/tmux-bridge-mcp",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 14:56",
+              "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
+              "metric": "★ 0"
+            },
+            {
+              "title": "nanyun818/agent-desk",
+              "url": "https://github.com/nanyun818/agent-desk",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 10:30",
+              "description": "Local-first AI workspace with CLI history, multi-model conversations, branches, tasks, snapshots, themes and Taoling desktop companion.",
+              "metric": "★ 1"
+            },
+            {
+              "title": "TomoyaRoussel78090/tmux-bridge-mcp",
+              "url": "https://github.com/TomoyaRoussel78090/tmux-bridge-mcp",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 06:31",
+              "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
+              "metric": "★ 0"
+            },
+            {
+              "title": "theresaq82052/tmux-bridge-mcp",
+              "url": "https://github.com/theresaq82052/tmux-bridge-mcp",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 06:15",
+              "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
+              "metric": "★ 0"
+            },
+            {
+              "title": "ayildirim8948/tmux-bridge-mcp",
+              "url": "https://github.com/ayildirim8948/tmux-bridge-mcp",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 06:53",
+              "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
+              "metric": "★ 0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "codex",
+      "title": "Codex",
+      "groups": [
+        {
+          "kind": "news",
+          "label": "Nyheter",
+          "items": [
+            {
+              "title": "AI Code Review Tools: Bugbot Beats Codex, 5 Rivals [2026]",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTjl2cGJCQjZnS1VISURmLUdoYld5R3o2d2d1cEtjMjJ3MWpGYzdCSk1yTjdLaVR2UG5XUVR1OEJmNllsOVhVRi1VVTRzd0tycGNIdElLam9vLWtPUFY5SFI2T3Y0b0VYa1c5Q3JndE0?oc=5",
+              "source": "shattered.io",
+              "date": "2026-10-19 14:54",
+              "description": "AI Code Review Tools: Bugbot Beats Codex, 5 Rivals [2026] &nbsp;&nbsp; shattered.io",
+              "metric": ""
+            },
+            {
+              "title": "AI Reverse-Engineering Tool 'REA' Hits 327,000 GitHub Stars, Rattling Software Industry",
+              "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGMnJiU1gxeURzS1dLaW56WjRxUWVXdmxnQUxTYVZ1aEVHc3Y1SHVYeVlnWHlVUHc1NTRneFRZeUJ2ZE5ScnAyMzQ4UnJqV1NaU2pLUDlLLW5DZVRxemQ1QVZJclRKWUNZQ2oyYTI5QVZVX1hVbkE?oc=5",
+              "source": "BigGo Finance",
+              "date": "2026-10-19 09:05",
+              "description": "AI Reverse-Engineering Tool 'REA' Hits 327,000 GitHub Stars, Rattling Software Industry &nbsp;&nbsp; BigGo Finance",
+              "metric": ""
+            },
+            {
+              "title": "AI Reverse Engineering Replicates Software, Sparks Industry Debate",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGRUdEI2NVV4NDBrM3JJNWVvU3d4TzVqZmhZNWxxd2ZzVXBOM01pZnY2RnlpUW1ZSWVqUEdQTDl6b056M19NTFpHYUliUUtCeDFDd05DTWNza2ZQSXdUM0hTYndJX1VPSTBVeXJBSjlHYnFqcF9FanVrNno4RWVlQVA1TEttTVA5?oc=5",
+              "source": "조선일보",
+              "date": "2026-10-19 06:33",
+              "description": "AI Reverse Engineering Replicates Software, Sparks Industry Debate &nbsp;&nbsp; 조선일보",
+              "metric": ""
+            },
+            {
+              "title": "From Product Brief to Campaign-Ready Ad in 4 Minutes With Higgsfield",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT1NBbnV1ZHcyRnVWYkFDdHRPbktEYzRMWndpcjhpVTNCSEFSdGRkMWt0Umw4QnE2elpIUDBXTGk4Uk1faHl6d3JrRG5FcWkxN3QzelNjTVRPZXc4TzNtVW9KTWFzemxFVUFQTC1aRFlIMEU4SThoSmxVVlJmb1E2QjBYaHYwaUJZay1DRkVldFFjblItU3EyNkdocTYwSUJxRWVqdVgtaVlPckwwUjZ4SEo3bDNHTUJsZnc5clpRVi1MNkU0TEhTUmFIeF9CdEo5SEHSAdIBQVVfeXFMTU9TQW51dWR3MkZ1VmJBQ3R0T25LRGM0TFp3aXI4aVUzQkhBUnRkZDFrdFJsOEJxNnpaSFAwV0xpOFJNX2h5endya0RuRXFpMTd0M3pTY01UT2V3OE8zbVVvSk1hc3psRVVBUEwtWkRZSDBFOEk4aEpsVVZSZm9RNkIwWGh2MGlCWWstQ0ZFZXRRY25SLVNxMjZHaHE2MElCcUVlanVYLWlZT3JMMFI2eEhKN2wzR01CbGZ3OXJaUVYtTDZFNExIU1JhSHhfQnRKOUhB?oc=5",
+              "source": "The Economic Times",
+              "date": "2026-10-19 02:30",
+              "description": "From Product Brief to Campaign-Ready Ad in 4 Minutes With Higgsfield &nbsp;&nbsp; The Economic Times",
+              "metric": ""
+            },
+            {
+              "title": "AI Reverse Engineering Shakes Software Industry",
+              "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcFphOWlDWVdCWl9LUnlaWGdoX2JuUUNaODVxaVR6YmdHMHZldVd3WFpJendhSWxCcW9zWkZwV250bk1LRy1nR2JFXy1XWUpkdUphZlpaQnZRMGFmc2RDRnU0aGRDdV9fNWpCYzVCemREcU84dkVKV1ZXUjhlTWtQS25XVm5PTlpr?oc=5",
+              "source": "조선일보",
+              "date": "2026-10-19 02:24",
+              "description": "AI Reverse Engineering Shakes Software Industry &nbsp;&nbsp; 조선일보",
+              "metric": ""
+            },
+            {
+              "title": "8000-Word Exclusive: The Dramatic Untold History of Codex's Epic Comeback Against ChatGPT – First Public Unveiling",
+              "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96SzlibGlIUmV2aENrR1NIcjUtNGZDbjdxNmlmT3I0bEhDamk0Wno1cXhqWEdPSk5oYml3Sllmb18zajZQMWw2bWdnWndVSmFnNUdz?oc=5",
+              "source": "36Kr",
+              "date": "2026-10-19 01:42",
+              "description": "8000-Word Exclusive: The Dramatic Untold History of Codex's Epic Comeback Against ChatGPT – First Public Unveiling &nbsp;&nbsp; 36Kr",
+              "metric": ""
+            },
+            {
+              "title": "OpenAI shares case of automating software maintenance using GPT-6",
+              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDJlOWQ2V0FnVFllUU1MaEUtNW4tMEdGVTNLbjNCQkdHU28wcnVtb3B6ekRjWnplT3JlVG5iYVo1Q3Z1NFF4S2FmVmNwYUZZY1BKOVJsRkJ3dEZuVXlHOTg3dEtFQ19sS0hobVdqcFdMNUxUeS1TV3o5YjRCMWdJOEVFZ082X08tY0VzU21TdU1LbVo2NE5fQkpvY0tjYk50UUJSMGdERmRIXzYzaHFNUg?oc=5",
+              "source": "디지털투데이",
+              "date": "2026-10-18 12:08",
+              "description": "OpenAI shares case of automating software maintenance using GPT-6 &nbsp;&nbsp; 디지털투데이",
+              "metric": ""
+            },
+            {
+              "title": "Codex Desktop Fills Mac Disks With Unbounded Crash Dumps in Handler Loop",
+              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGVOM2FlVFBmblFEeGxxc0djcnItX1ZKSmhjWVJqS1YzT1Q1M0lxbXM3TDE5MXMzalhNekFmdFNmVENfNzBkdkR1NGNGTkIwek41X1FoSWZUVFFvMVRfZTJjM1VVSDROQVUzNE5meEFqc0Q3dWg3cl83NGJjM1g0Wm9mYjNKSzB2bng4bnhXaG1uUnFyM0l1TmM5Q2RQdjJhb3Rr?oc=5",
+              "source": "news.lavx.hu",
+              "date": "2026-10-18 01:43",
+              "description": "Codex Desktop Fills Mac Disks With Unbounded Crash Dumps in Handler Loop &nbsp;&nbsp; news.lavx.hu",
+              "metric": ""
+            }
+          ]
+        },
+        {
+          "kind": "release",
+          "label": "Releaser",
+          "items": [
+            {
+              "title": "@openai/codex 0.164.0-alpha.5",
+              "url": "https://www.npmjs.com/package/@openai/codex/v/0.164.0-alpha.5",
+              "source": "npm release",
+              "date": "2026-10-19 14:36",
+              "description": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
+              "metric": "0.164.0-alpha.5"
+            },
+            {
+              "title": "openai/codex: 0.164.0-alpha.5",
+              "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.5",
+              "source": "GitHub release",
+              "date": "2026-10-19 14:23",
+              "description": "Release 0.164.0-alpha.5",
+              "metric": "rust-v0.164.0-alpha.5"
+            },
+            {
+              "title": "@openai/codex 0.164.0-alpha.4",
+              "url": "https://www.npmjs.com/package/@openai/codex/v/0.164.0-alpha.4",
+              "source": "npm release",
+              "date": "2026-10-19 10:58",
+              "description": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
+              "metric": "0.164.0-alpha.4"
+            },
+            {
+              "title": "openai/codex: 0.164.0-alpha.4",
+              "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.4",
+              "source": "GitHub release",
+              "date": "2026-10-19 10:42",
+              "description": "Release 0.164.0-alpha.4",
+              "metric": "rust-v0.164.0-alpha.4"
+            }
+          ]
+        },
+        {
+          "kind": "community",
+          "label": "Nya repos, skills & plugins",
+          "items": [
+            {
+              "title": "welsir/ai-api-guide",
+              "url": "https://github.com/welsir/ai-api-guide",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 13:39",
+              "description": "AI API / LLM guide: model selection, pricing, OpenAI-compatible endpoints, Claude Code & Codex integration, troubleshooting. AI API 模型选型、价格对比、工具接入与排错指南。Claude / GPT / Gemini / DeepSeek / Kimi / Qwen. By Orbis.",
+              "metric": "★ 6"
+            },
+            {
+              "title": "eased-tech/switchkick",
+              "url": "https://github.com/eased-tech/switchkick",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 09:05",
+              "description": "Local proxy that routes OpenAI and Anthropic API traffic through OpenRouter, picking a model for each turn.",
+              "metric": "★ 2"
+            },
+            {
+              "title": "Dayc-l/claude-codex-session-link",
+              "url": "https://github.com/Dayc-l/claude-codex-session-link",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 06:34",
+              "description": "MCP server connecting Claude Code and OpenAI Codex: read saved sessions, sync conversation context, and ask Claude follow-ups without interrupting your workflow. | Claude会话读取、上下文同步与协作助手",
+              "metric": "★ 8"
+            },
+            {
+              "title": "shuishuipingan/trae2api-hub",
+              "url": "https://github.com/shuishuipingan/trae2api-hub",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 05:25",
+              "description": "Trea国际国内多账号反代网关，Trae 国际/国内双区多账号 OpenAI 兼容网关 — 直连推理、账号池、模型目录、额度预警/自动降级、API Key 配额与白名单、图形化看板、Docker 零依赖",
+              "metric": "★ 4"
+            },
+            {
+              "title": "ivanusto/mitosis-orchestrator",
+              "url": "https://github.com/ivanusto/mitosis-orchestrator",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 04:06",
+              "description": "Cross-model frontier orchestrator for Google Antigravity (agy), Claude Code and OpenAI Codex CLI: a frontier primary plans and integrates while haiku/flash-lite scouts and sonnet/flash workers do lookups, tests and edits under hook-enforced guardrails. 跨模型尖端編排外掛：主核尖端模型負責規劃與整合，偵察與執行交給 haiku、sonnet 等子",
+              "metric": "★ 2"
+            },
+            {
+              "title": "hsuanshao/AgentMemory",
+              "url": "https://github.com/hsuanshao/AgentMemory",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 10:37",
+              "description": "Self-hosted memory service for AI agents, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and multi-tenant isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
+              "metric": "★ 6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claude",
+      "title": "Claude",
+      "groups": [
+        {
+          "kind": "news",
+          "label": "Nyheter",
+          "items": [
+            {
+              "title": "Show HN: Craig – A TUI for running parallel coding agents",
+              "url": "https://craig-cli.com/",
+              "source": "Hacker News",
+              "date": "2026-10-19 20:57",
+              "description": "",
+              "metric": "▲ 3 · 0 kommentarer"
+            },
+            {
+              "title": "Show HN: Flyingcar.pet – a physics simulation of Tesla's flying Roadster stunt",
+              "url": "https://flyingcar.pet",
+              "source": "Hacker News",
+              "date": "2026-10-19 20:51",
+              "description": "",
+              "metric": "▲ 1 · 2 kommentarer"
+            },
+            {
+              "title": "Replit’s Anthropic Breakup Claim Folds in 24 Hours [2026]",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jZTVJTXg5M09RNDNBdlVGaXVuQkg3TjFZWFJJSnRkRURMTzF2a0E4OEdWbHdjZ2trT1UteHNZR1ZELXAyY0IwRFB3NW9MSFh3NThpVndaNjFZcmlFQmtJNzVBaUV0VzNKb2Nfd0lUTHc?oc=5",
+              "source": "https://tech-insider.org/",
+              "date": "2026-10-19 20:25",
+              "description": "Replit’s Anthropic Breakup Claim Folds in 24 Hours [2026] &nbsp;&nbsp; https://tech-insider.org/",
+              "metric": ""
+            },
+            {
+              "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+              "url": "https://dovepass.com",
+              "source": "Hacker News",
+              "date": "2026-10-19 19:21",
+              "description": "",
+              "metric": "▲ 2 · 0 kommentarer"
+            },
+            {
+              "title": "Anthropic is pitching Congress its own AI safety bill, report says",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5",
+              "source": "Mashable",
+              "date": "2026-10-19 19:18",
+              "description": "Anthropic is pitching Congress its own AI safety bill, report says &nbsp;&nbsp; Mashable",
+              "metric": ""
+            },
+            {
+              "title": "Anthropic Bug-Scope Leak: What the Report Actually Says",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjdnlJNWEwaFZhQ3B5X3N1Y0dreGpxUmFMSHBNRThwYURCR2dPX1p1UjFzUDBta01QTEJ5ZXlybS0xZHpEaWgzTlhWam93VE9JeEVTQkFRYWsxbDhvdHpWUFlJZ0sxZw?oc=5",
+              "source": "OrcaRouter",
+              "date": "2026-10-19 19:13",
+              "description": "Anthropic Bug-Scope Leak: What the Report Actually Says &nbsp;&nbsp; OrcaRouter",
+              "metric": ""
+            },
+            {
+              "title": "Show HN: Vibetown – public sandboxes to vibecode with strangers",
+              "url": "https://vibetown.social",
+              "source": "Hacker News",
+              "date": "2026-10-19 19:00",
+              "description": "",
+              "metric": "▲ 1 · 0 kommentarer"
+            },
+            {
+              "title": "Show HN: Krites, Claude Code Plugin that forces your tests to run",
+              "url": "https://github.com/krites-dev/krites",
+              "source": "Hacker News",
+              "date": "2026-10-19 18:45",
+              "description": "",
+              "metric": "▲ 1 · 0 kommentarer"
+            }
+          ]
+        },
+        {
+          "kind": "release",
+          "label": "Releaser",
+          "items": [
+            {
+              "title": "@anthropic-ai/claude-code 2.1.304",
+              "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.304",
+              "source": "npm release",
+              "date": "2026-10-19 19:47",
+              "description": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.",
+              "metric": "2.1.304"
+            },
+            {
+              "title": "anthropics/claude-code v2.1.303",
+              "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
+              "source": "GitHub release",
+              "date": "2026-10-18 22:26",
+              "description": "## What's changed - Bug fixes and reliability improvements",
+              "metric": "v2.1.303"
+            },
+            {
+              "title": "@anthropic-ai/claude-code 2.1.303",
+              "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.303",
+              "source": "npm release",
+              "date": "2026-10-18 21:15",
+              "description": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.",
+              "metric": "2.1.303"
+            }
+          ]
+        },
+        {
+          "kind": "community",
+          "label": "Nya repos, skills & plugins",
+          "items": [
+            {
+              "title": "MalikMoussaoui/maitre-agent",
+              "url": "https://github.com/MalikMoussaoui/maitre-agent",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 22:13",
+              "description": "Skill et plugin Claude Code : une session maître qui pilote des sous-agents, vérifie elle-même et laisse une passation reprenable. Fait avec lui-même.",
+              "metric": "★ 2"
+            },
+            {
+              "title": "marcuslacerda/claude-iracing-livery-skill",
+              "url": "https://github.com/marcuslacerda/claude-iracing-livery-skill",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 19:20",
+              "description": "Paint your iRacing car by talking to Claude: a Claude Code plugin that renders TGA + spec map from the official templates, calibrated per car, 100% local.",
+              "metric": "★ 1"
+            },
+            {
+              "title": "maturada/gh-prs-monitor",
+              "url": "https://github.com/maturada/gh-prs-monitor",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 10:54",
+              "description": "Claude Code plugin for your GitHub pull requests: the PRs you opened and those waiting on your review, in a pane sorted by what needs you. Alerts for failing CI, reviews, comments and conflicts; one-press merge, update branch and re-run CI; skills that resolve review comments, fix CI, resolve confli",
+              "metric": "★ 2"
+            },
+            {
+              "title": "sentimony/agentic-workflow",
+              "url": "https://github.com/sentimony/agentic-workflow",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 09:36",
+              "description": "Agentic workflow skills for Claude Code and Codex: the awf plugin",
+              "metric": "★ 4"
+            },
+            {
+              "title": "sigmastudioz/agent-skills",
+              "url": "https://github.com/sigmastudioz/agent-skills",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 05:50",
+              "description": "Reusable agent skills and plugins by Lex from SigmaStudioz, for Claude Code, Cursor, and Codex.",
+              "metric": "★ 1"
+            },
+            {
+              "title": "tomcatmew/awesome-Claude-code",
+              "url": "https://github.com/tomcatmew/awesome-Claude-code",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 03:26",
+              "description": "A curated, bilingual (EN/中文) list of the best Claude Code & Claude ecosystem projects: tools, skills, subagents, plugins, MCP servers, apps, guides, videos and communities, including Bilibili and the Chinese community.",
+              "metric": "★ 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grok",
+      "title": "Grok",
+      "groups": [
+        {
+          "kind": "news",
+          "label": "Nyheter",
+          "items": [
+            {
+              "title": "X Bundles Grok, Cursor and Premium Into One Subscription",
+              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4zR2dUZVBuaTFzN3RFMU9SanY4Y05JeEs3cjNmRWN4OGl2NG14R0RIZFBzblppM0x4R2J0MTNYTXF4V2QyZHNya3NiZ2RYSGk3T3F3YUwtYVBubHdOanQwenVfRDREd3RkWDV0d3BKaWxXRHhQaEpr?oc=5",
+              "source": "ALM Corp",
+              "date": "2026-10-19 18:41",
+              "description": "X Bundles Grok, Cursor and Premium Into One Subscription &nbsp;&nbsp; ALM Corp",
+              "metric": ""
+            },
+            {
+              "title": "US Bans DeepSeek AI from Federal Agencies Amid China Tensions",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS0R1WlpteVc4OWYyTjlfelhSRld5ekE0MXN2TUJOUmxTaDRYbDNjYVlIeEdoUzRuUjYxSlp4YXVOS3BUUC1LNWt1RmJCU1UxSlYwVV83djVIU3ZwU2g0ai10WDVycmlmenFPSlRRRnc5Y0ptanI1VjNNUEdwejB0WEg5RnR4Mk9XLTk4UWRmSHI4UEpMYlJicm1R?oc=5",
+              "source": "The Tech Buzz",
+              "date": "2026-10-19 18:39",
+              "description": "US Bans DeepSeek AI from Federal Agencies Amid China Tensions &nbsp;&nbsp; The Tech Buzz",
+              "metric": ""
+            },
+            {
+              "title": "Mercury 3 مقابل Grok 4.7: احسم الاختيار حسب زمن الاستجابة، لا حسب النتيجة",
+              "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByVkc1VHpxaWZyTmw0dFV5TzFSNmdodkxBSkRLdVAtcHMxb1dkdGpGaWgyaFpVV0lkTmwwUW1yOF96cVVwRl9XcWtpdlBTRkdGbmplYjJDdlVud2VpREN1SHlBQl91Zw?oc=5",
+              "source": "OrcaRouter",
+              "date": "2026-10-19 18:25",
+              "description": "Mercury 3 مقابل Grok 4.7: احسم الاختيار حسب زمن الاستجابة، لا حسب النتيجة &nbsp;&nbsp; OrcaRouter",
+              "metric": ""
+            },
+            {
+              "title": "Bill Gross bets AI can help mass produce 1M new startups",
+              "url": "https://fortune.com/2026/10/19/bill-gross-idealab-ai-million-startups-jobs/",
+              "source": "Hacker News",
+              "date": "2026-10-19 17:16",
+              "description": "",
+              "metric": "▲ 1 · 0 kommentarer"
+            },
+            {
+              "title": "SpaceX Stock Forecast: Elon Musk’s $1.9 Trillion Space Company May Deliver Limited Returns Through 2027 Despite 92% Revenue Growth; Check What Investors Should Know",
+              "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOR3JmeGI2b2hESm1ONWFPU0NQTHBaS094U1NiQWJFN0g3eHc4Z1BIMGlSUmNpRzU4WExMcnEwRFFlaUREQlNyRF90QWtvYXRBNWtzVUhkVWFYZTh2S1FXcGVrdXhtb2plckJId19uUlVwX29nM1U2S2dDbUpnVS1GTTBfdlIxS2NyQ2pLZUhXek9RZDJEcXhlNy10WGRZRzlJSG5xNFM0MlJHUmc3MWNjWDJtZmViWUFadTJ3azV4ZWRoU1k4ZTA1b3gtRVYxYU5SVWctS29VWUZuUnZvSFlzZHF6UTR0VVBvWFB5WERvVGtZX2hIYW5wbGVOU0stYlM0ZTNNZThVOVhsLTloeHZpakt1c2w4YzZYUlI4U0xCdnZHQzVON3UxTnFHTW1aQ0xWQUdoN9IBtAJBVV95cUxOR3JmeGI2b2hESm1ONWFPU0NQTHBaS094U1NiQWJFN0g3eHc4Z1BIMGlSUmNpRzU4WExMcnEwRFFlaUREQlNyRF90QWtvYXRBNWtzVUhkVWFYZTh2S1FXcGVrdXhtb2plckJId19uUlVwX29nM1U2S2dDbUpnVS1GTTBfdlIxS2NyQ2pLZUhXek9RZDJEcXhlNy10WGRZRzlJSG5xNFM0MlJHUmc3MWNjWDJtZmViWUFadTJ3azV4ZWRoU1k4ZTA1b3gtRVYxYU5SVWctS29VWUZuUnZvSFlzZHF6UTR0VVBvWFB5WERvVGtZX2hIYW5wbGVOU0stYlM0ZTNNZThVOVhsLTloeHZpakt1c2w4YzZYUlI4U0xCdnZHQzVON3UxTnFHTW1aQ0xWQUdoNw?oc=5",
+              "source": "The Sunday Guardian",
+              "date": "2026-10-19 16:47",
+              "description": "SpaceX Stock Forecast: Elon Musk’s $1.9 Trillion Space Company May Deliver Limited Returns Through 2027 Despite 92% Revenue Growth; Check What Investors Should Know &nbsp;&nbsp; The Sunday Guardian",
+              "metric": ""
+            },
+            {
+              "title": "Jensen Huang Declares NVIDIA Can Win “in the Absence of Any AI Labs”",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWEU3MEZYTTVkRExVUVp5dXUxVWhSd1hIUS15MW53cW04Y1F1WE1JalRmZ0ZLVjNBMmRod291YkFCbTBpNFROdlFUanp6by1TWk9pRXhLU0ZXSE1BZnBIdGlPWjRPX3M2bnFJaWhVNkNLVE1BOHp0YmZBOWhYN21mYjlHUDZUV0RnRTVCRTFQalUtdC0xVDMw?oc=5",
+              "source": "TIKR.com",
+              "date": "2026-10-19 16:24",
+              "description": "Jensen Huang Declares NVIDIA Can Win “in the Absence of Any AI Labs” &nbsp;&nbsp; TIKR.com",
+              "metric": ""
+            },
+            {
+              "title": "Tesla, Starlink, Neuralink: 9 major Elon Musk ventures you should know",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdHZ6RDdwSnhpSDRTbXRQQ3ZXeGVtT2FCSUF2NXNmUFZwWFd6MjFVVWRSdndIMjZROW4weGlheG11dm1taXhOTlptakJPSFRnWHl3MXdDamtBUWpvcTFuZGpFcmxwM3VXVkRqWUIyWUU2eUwzVjBxUGpHamxOVjBmTFlIUGp1TkdYdHB6ckhKOUpwRlBMWVNLVExMcXY1c0tJWjNrZDRnSU1GWDVfZlpseTQyRm96VTBBSElZZ0xJTzNLdk5reG1V?oc=5",
+              "source": "Legit.ng",
+              "date": "2026-10-19 16:08",
+              "description": "Tesla, Starlink, Neuralink: 9 major Elon Musk ventures you should know &nbsp;&nbsp; Legit.ng",
+              "metric": ""
+            },
+            {
+              "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+              "url": "https://news.ycombinator.com/item?id=50154029",
+              "source": "Hacker News",
+              "date": "2026-10-19 16:00",
+              "description": "",
+              "metric": "▲ 37 · 16 kommentarer"
+            }
+          ]
+        },
+        {
+          "kind": "release",
+          "label": "Releaser",
+          "items": []
+        },
+        {
+          "kind": "community",
+          "label": "Nya repos, skills & plugins",
+          "items": [
+            {
+              "title": "lookiyam-94/omarchy-event-horizon-theme",
+              "url": "https://github.com/lookiyam-94/omarchy-event-horizon-theme",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 21:01",
+              "description": "Monochrome Omarchy theme inspired by X, xAI, Grok and Grok Bot",
+              "metric": "★ 0"
+            },
+            {
+              "title": "crofanatik1-wq/Grok",
+              "url": "https://github.com/crofanatik1-wq/Grok",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 13:53",
+              "description": "Grok xai",
+              "metric": "★ 0"
+            },
+            {
+              "title": "TuDouPn/dsh-grok-xai",
+              "url": "https://github.com/TuDouPn/dsh-grok-xai",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-19 05:19",
+              "description": "Unofficial DeepSeek Harness plugin: use a SuperGrok / X Premium subscription, Grok models, live usage, models and pricing.",
+              "metric": "★ 1"
+            },
+            {
+              "title": "ehteshambuildagents/grokbot",
+              "url": "https://github.com/ehteshambuildagents/grokbot",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 23:52",
+              "description": "LocalCrew: an independent, self-hosted AI teammate platform (local Ollama or any OpenAI-compatible API). Not affiliated with Grok or xAI.",
+              "metric": "★ 0"
+            },
+            {
+              "title": "Cookiebubba/orbit-voice",
+              "url": "https://github.com/Cookiebubba/orbit-voice",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 19:37",
+              "description": "A hands-free voice companion for Claude Code Desktop, powered by Grok Voice. Not affiliated with xAI or Anthropic.",
+              "metric": "★ 1"
+            },
+            {
+              "title": "dwfirst/daxsi-explorer",
+              "url": "https://github.com/dwfirst/daxsi-explorer",
+              "source": "GitHub nytt repo",
+              "date": "2026-10-18 15:06",
+              "description": "Autonomous Kinetic AI-Scientist & Empirical Data Laboratory based on Tesla Cybertruck, xAI Grok and NVIDIA hardware ecosystem.",
+              "metric": "★ 1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

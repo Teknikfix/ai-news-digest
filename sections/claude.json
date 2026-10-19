@@ -7,68 +7,68 @@
       "label": "Nyheter",
       "items": [
         {
-          "title": "Show HN: Rubi – A knowledge graph that cuts how much Claude Code re-reads",
-          "url": "https://github.com/YURIBEDRAN/rubi",
+          "title": "Show HN: Craig – A TUI for running parallel coding agents",
+          "url": "https://craig-cli.com/",
           "source": "Hacker News",
-          "date": "2026-10-18 20:54",
+          "date": "2026-10-19 20:57",
+          "description": "",
+          "metric": "▲ 3 · 0 kommentarer"
+        },
+        {
+          "title": "Show HN: Flyingcar.pet – a physics simulation of Tesla's flying Roadster stunt",
+          "url": "https://flyingcar.pet",
+          "source": "Hacker News",
+          "date": "2026-10-19 20:51",
+          "description": "",
+          "metric": "▲ 1 · 2 kommentarer"
+        },
+        {
+          "title": "Replit’s Anthropic Breakup Claim Folds in 24 Hours [2026]",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jZTVJTXg5M09RNDNBdlVGaXVuQkg3TjFZWFJJSnRkRURMTzF2a0E4OEdWbHdjZ2trT1UteHNZR1ZELXAyY0IwRFB3NW9MSFh3NThpVndaNjFZcmlFQmtJNzVBaUV0VzNKb2Nfd0lUTHc?oc=5",
+          "source": "https://tech-insider.org/",
+          "date": "2026-10-19 20:25",
+          "description": "Replit’s Anthropic Breakup Claim Folds in 24 Hours [2026] &nbsp;&nbsp; https://tech-insider.org/",
+          "metric": ""
+        },
+        {
+          "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
+          "url": "https://dovepass.com",
+          "source": "Hacker News",
+          "date": "2026-10-19 19:21",
+          "description": "",
+          "metric": "▲ 2 · 0 kommentarer"
+        },
+        {
+          "title": "Anthropic is pitching Congress its own AI safety bill, report says",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjVPYUtCV2RwQTJVZ0MtcDFJdV9INE9mOUpFdmUxQXg0bXI3WkJhVHNyN2ExOGFJRXAyZmpwWjY5SnMxYW05R2UtVVJzRHJGdldDcEdaU3RlcE1DdGFqT19CXzgwZnNUdk4zNEY1cUJXSWpsVVFn?oc=5",
+          "source": "Mashable",
+          "date": "2026-10-19 19:18",
+          "description": "Anthropic is pitching Congress its own AI safety bill, report says &nbsp;&nbsp; Mashable",
+          "metric": ""
+        },
+        {
+          "title": "Anthropic Bug-Scope Leak: What the Report Actually Says",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjdnlJNWEwaFZhQ3B5X3N1Y0dreGpxUmFMSHBNRThwYURCR2dPX1p1UjFzUDBta01QTEJ5ZXlybS0xZHpEaWgzTlhWam93VE9JeEVTQkFRYWsxbDhvdHpWUFlJZ0sxZw?oc=5",
+          "source": "OrcaRouter",
+          "date": "2026-10-19 19:13",
+          "description": "Anthropic Bug-Scope Leak: What the Report Actually Says &nbsp;&nbsp; OrcaRouter",
+          "metric": ""
+        },
+        {
+          "title": "Show HN: Vibetown – public sandboxes to vibecode with strangers",
+          "url": "https://vibetown.social",
+          "source": "Hacker News",
+          "date": "2026-10-19 19:00",
           "description": "",
           "metric": "▲ 1 · 0 kommentarer"
         },
         {
-          "title": "Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd2Y2SHZFZjFCR3R6YmZWcFhtVkMwcUJHYTAtZzQxbnFJLVppSlBmQ1RDLTVuclVGblJEeVFIMWN5VTJuMHJLMG8zLVp5UTM3VHJPU3RtWHRVeFhZZkM5djJmYWhBekQwcDhEV1ZrRlFjeHdtRGpRRHdhR0FDVGJIbmthOE5MZ1V2VEFFeHJaQXlEMHdkWmQ1RlBoLWRONlg2YkJuU0VtSG1kQUJtYnFYRXVrczRWNWNDUzRzWkZhRWF6dw?oc=5",
-          "source": "Crowdfund Insider",
-          "date": "2026-10-18 20:15",
-          "description": "Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies &nbsp;&nbsp; Crowdfund Insider",
-          "metric": ""
-        },
-        {
-          "title": "Anthropic’s Claude AI Uncovers Origins of NSA-Provided Cryptographic Keys After 25 Years",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVhES0NHQUV1VlZRT2RJdmsxbDFxa2ozN1ZEdWk5MHRDWm14Q0tfMnNhX0J2d2tfTDVIWi03Q1dxTzF2MGNySTJkX09jWjlLYXZUX2NzbU5NNVZZNVNIYUZoeG9BZXYxdFZGRXFUbjdseFNWR1g5UHRkUHVTX2FPUdIBhgFBVV95cUxOdllyd0Z5Z3pWeVVHTXVTZU1QS29JLUdlVjR4bll4cWNsUkU1WFdIUjFfeXk2RFByVGx0ZXBLSnh3dzhxZ1JhUElwVDFuNVk2bEY5VmwxTVJ0cDVYNVVhVFhiWWotNlVuTkNzcVpyQWFXNWdZcGhfOFEtWmQxTFRHMkFmSlVQdw?oc=5",
-          "source": "GBHackers News",
-          "date": "2026-10-18 18:04",
-          "description": "Anthropic’s Claude AI Uncovers Origins of NSA-Provided Cryptographic Keys After 25 Years &nbsp;&nbsp; GBHackers News",
-          "metric": ""
-        },
-        {
-          "title": "Replit Makes OpenAI Its Default AI Partner",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0yLTY1Q29ZM0draGpSZnFWRF8wakhfb0ctTjBRVGNqLWtidFFJRmhYQ0VnWFdINW9WM2p1SXdnRmdiZkZPeXFLMVA1clJYb0Fzd3ZNYTdDcWtrVGNrQ3pDSmJ5ZnUxNWlHcWQzcTVYSXZyLXpNQXFLMDJ4am12RWc?oc=5",
-          "source": "innovation-village.com",
-          "date": "2026-10-18 17:56",
-          "description": "Replit Makes OpenAI Its Default AI Partner &nbsp;&nbsp; innovation-village.com",
-          "metric": ""
-        },
-        {
-          "title": "Junior Recruitment Portion at Anthropic Decreases, Employee Meeting Time Increases 20 Percent",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE96MXI4Nm1XWUpUUnBwNXd2ZmdUTHRQZDZSdnUyUVVIUHJuSVBBYUc3TWcyMG5vY2hkVHU5Q3BTWUtqUdIBQkFVX3lxTE96MXI4Nm1XWUpUUnBwNXd2ZmdUTHRQZDZSdnUyUVVIUHJuSVBBYUc3TWcyMG5vY2hkVHU5Q3BTWUtqUQ?oc=5",
-          "source": "VOI.ID",
-          "date": "2026-10-18 17:28",
-          "description": "Junior Recruitment Portion at Anthropic Decreases, Employee Meeting Time Increases 20 Percent &nbsp;&nbsp; VOI.ID",
-          "metric": ""
-        },
-        {
-          "title": "Tell HN: Massive amount of spam from \"Who Wants to be hired\"",
-          "url": "https://news.ycombinator.com/item?id=50142714",
+          "title": "Show HN: Krites, Claude Code Plugin that forces your tests to run",
+          "url": "https://github.com/krites-dev/krites",
           "source": "Hacker News",
-          "date": "2026-10-18 16:44",
+          "date": "2026-10-19 18:45",
           "description": "",
-          "metric": "▲ 7 · 2 kommentarer"
-        },
-        {
-          "title": "Show HN: FR/EN search engine built with Chez Scheme and Claude Code for €150",
-          "url": "https://h9p3r.fr",
-          "source": "Hacker News",
-          "date": "2026-10-18 16:44",
-          "description": "",
-          "metric": "▲ 1 · 3 kommentarer"
-        },
-        {
-          "title": "Show HN: A GitHub contribution for my newborn's feedings, turned into SaaS",
-          "url": "https://milo.baby",
-          "source": "Hacker News",
-          "date": "2026-10-18 16:19",
-          "description": "",
-          "metric": "▲ 3 · 2 kommentarer"
+          "metric": "▲ 1 · 0 kommentarer"
         }
       ]
     },
@@ -76,6 +76,22 @@
       "kind": "release",
       "label": "Releaser",
       "items": [
+        {
+          "title": "@anthropic-ai/claude-code 2.1.304",
+          "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.304",
+          "source": "npm release",
+          "date": "2026-10-19 19:47",
+          "description": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.",
+          "metric": "2.1.304"
+        },
+        {
+          "title": "anthropics/claude-code v2.1.303",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
+          "source": "GitHub release",
+          "date": "2026-10-18 22:26",
+          "description": "## What's changed - Bug fixes and reliability improvements",
+          "metric": "v2.1.303"
+        },
         {
           "title": "@anthropic-ai/claude-code 2.1.303",
           "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.303",
@@ -90,6 +106,22 @@
       "kind": "community",
       "label": "Nya repos, skills & plugins",
       "items": [
+        {
+          "title": "MalikMoussaoui/maitre-agent",
+          "url": "https://github.com/MalikMoussaoui/maitre-agent",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 22:13",
+          "description": "Skill et plugin Claude Code : une session maître qui pilote des sous-agents, vérifie elle-même et laisse une passation reprenable. Fait avec lui-même.",
+          "metric": "★ 2"
+        },
+        {
+          "title": "marcuslacerda/claude-iracing-livery-skill",
+          "url": "https://github.com/marcuslacerda/claude-iracing-livery-skill",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 19:20",
+          "description": "Paint your iRacing car by talking to Claude: a Claude Code plugin that renders TGA + spec map from the official templates, calibrated per car, 100% local.",
+          "metric": "★ 1"
+        },
         {
           "title": "maturada/gh-prs-monitor",
           "url": "https://github.com/maturada/gh-prs-monitor",
@@ -107,35 +139,19 @@
           "metric": "★ 4"
         },
         {
+          "title": "sigmastudioz/agent-skills",
+          "url": "https://github.com/sigmastudioz/agent-skills",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-18 05:50",
+          "description": "Reusable agent skills and plugins by Lex from SigmaStudioz, for Claude Code, Cursor, and Codex.",
+          "metric": "★ 1"
+        },
+        {
           "title": "tomcatmew/awesome-Claude-code",
           "url": "https://github.com/tomcatmew/awesome-Claude-code",
           "source": "GitHub nytt repo",
           "date": "2026-10-18 03:26",
           "description": "A curated, bilingual (EN/中文) list of the best Claude Code & Claude ecosystem projects: tools, skills, subagents, plugins, MCP servers, apps, guides, videos and communities, including Bilibili and the Chinese community.",
-          "metric": "★ 1"
-        },
-        {
-          "title": "rezk2ll/skills",
-          "url": "https://github.com/rezk2ll/skills",
-          "source": "GitHub nytt repo",
-          "date": "2026-10-17 13:21",
-          "description": "Claude Code skills, guardrail hooks and mods, installable as plugins",
-          "metric": "★ 1"
-        },
-        {
-          "title": "stgoddv/session-pilot",
-          "url": "https://github.com/stgoddv/session-pilot",
-          "source": "GitHub nytt repo",
-          "date": "2026-10-17 12:46",
-          "description": "Claude Code plugin (mod + skill) for long-running orchestrator sessions: context and quota status, self-compaction with a handoff, subagent cap by quota tier, graceful pause and auto-resume.",
-          "metric": "★ 3"
-        },
-        {
-          "title": "vaibhavzapadiya/vz-skills",
-          "url": "https://github.com/vaibhavzapadiya/vz-skills",
-          "source": "GitHub nytt repo",
-          "date": "2026-10-17 09:49",
-          "description": "VZ Toolkit: evidence-driven skills, agents and guardrails for Claude Code (plugin marketplace)",
           "metric": "★ 1"
         }
       ]
