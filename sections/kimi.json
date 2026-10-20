@@ -7,6 +7,30 @@
       "label": "Nyheter",
       "items": [
         {
+          "title": "Ransomware gangs INC and The Gentlemen use Claude, an open server exposes 46 attacks ready to launch",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaTMwNkdLYnE3QVZjT3FUelFvVmg1RTNQM3drS3E2WnhkeFAxLU1FOTcyX1lLVVNXdVo3WjZ6UU42V0NSdW1YdnZ3ZG5GaFhMNTlkblVmSXhxNzUwblN4eE95SnNRRVN4b3Fma1RUR3VpSmpSWWZBN1JqbzVFLUI3LWh6X2puanphQlNPcDI3bVlQX3VhSDkySmo2a1A?oc=5",
+          "source": "Pasquale Pillitteri",
+          "date": "2026-10-20 16:04",
+          "description": "Ransomware gangs INC and The Gentlemen use Claude, an open server exposes 46 attacks ready to launch &nbsp;&nbsp; Pasquale Pillitteri",
+          "metric": ""
+        },
+        {
+          "title": "Kimi K3.1: Four Signals Point at a Launch Next Week, and the One Commit Nobody Can Find",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBmZzE5U3kzc0d2M3JHbTJQNVFHZDR5T2V3X0F2NkVWaXZpTEV0TG1pUC1ROVFpdmVubmVmUGxsRllDeFQtWEkzdjJLd0ZaT196MWJaRDBxSGpaZTBwSGF6TTh5Uzk1UQ?oc=5",
+          "source": "OrcaRouter",
+          "date": "2026-10-20 15:41",
+          "description": "Kimi K3.1: Four Signals Point at a Launch Next Week, and the One Commit Nobody Can Find &nbsp;&nbsp; OrcaRouter",
+          "metric": ""
+        },
+        {
+          "title": "How Longbridge AI Turns Kimi K3 Into a Stock Analyst",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnJJS1BVMm9EU1RnWktMY1huc0xEMDNfdkJ4bU5fZ1JocEJMN2hjQzlnVGpNWnAyOW42SlVUc2hJNjlQakplcU5ZTGVIT0tfMG8wemYtemJYLUVSTkM2RlB1aThFS21TSmZ0MkpOek05TElBREIyOGdxdk5kcndoRjNEZS1VRzcwMUhaNDVKb25DQy1BRU9xNTlJMUNMZ0prcHpuQTR3TkV5bHlDV2xVRw?oc=5",
+          "source": "Longbridge",
+          "date": "2026-10-20 10:47",
+          "description": "How Longbridge AI Turns Kimi K3 Into a Stock Analyst &nbsp;&nbsp; Longbridge",
+          "metric": ""
+        },
+        {
           "title": "Mercury 3 vs Kimi K3: otwarte wagi czy zamknięty wynajem",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mSzRBbDBrbkpqMl9BRy16TVQ2dC1mZWV5eDB4Z1pRZ2ZVQTFIZS1NSGdJdEYxVGV1UFZFUk1ZY0puT1FLWEdhd1d4MkY5S0VzVUZxdk5iY3hhcmtaZkoyZ04xX3Q?oc=5",
           "source": "OrcaRouter",
@@ -23,35 +47,11 @@
           "metric": ""
         },
         {
-          "title": "China's Teenage AI Prodigy Leaves Moonshot AI, Denies Moving to U.S. Anthropic",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1veEZYYmU1TzlJUU5yRWxGV3F4SXV2eDlxN0xBcjFXUkE5U25telhaMG9zbms2cG8zV2VJa1E2Q0ktSWcxSnJEalZvb0FCWFgzbHZtdzlFNm9jLWdGR0UyZVZpSlp2UQ?oc=5",
-          "source": "news.sbs.co.kr",
-          "date": "2026-10-18 12:17",
-          "description": "China's Teenage AI Prodigy Leaves Moonshot AI, Denies Moving to U.S. Anthropic &nbsp;&nbsp; news.sbs.co.kr",
-          "metric": ""
-        },
-        {
-          "title": "Teen Prodigy Behind Kimi Breakthrough Leaves Moonshot AI for U.S.",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWEgzeUlLNlhPQUt1Z0c3SmdfN21DeHI1dE5HMjJLeWdkSTRYYm80R0hiWi1yOTlYYW1mT3dVOXBpa3ROY21vbGM4aE9KVFFaMVlGcWVsMW94VGRPM2ZFN3YyWlhBbDRFbFVGb0hFcnJYeHBVeWwtOHVtM3Q1TGlUMk9UUUlnc0dYaTNLbzlab29qUW1JcFppQzZqTkFwTm1lUng3WnBJTQ?oc=5",
-          "source": "Seoul Economic Daily",
-          "date": "2026-10-18 09:02",
-          "description": "Teen Prodigy Behind Kimi Breakthrough Leaves Moonshot AI for U.S. &nbsp;&nbsp; Seoul Economic Daily",
-          "metric": ""
-        },
-        {
-          "title": "Chinese AI platform 'helped plan attack on London Underground'",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVmJvZERCVHlmUWo3dTE2WFhGd2hXb2d5djBMcUJFN2ZkRXJxbG5KM3pEMHpDVjhFUlB6eHctSGN1MU9ZUVh6cy00aFRiX05nc2dsQ25YcmN3WEZBd2pEaWFIWmpJeFFJUGNCdm1saUxuVExXVFBBcGhIbjRTaS1vODdjcmd2and3Q2FqYS13bWc4TVNicDZkVi1sUnY5aUstTHN3VWFZUlNHWDdOOWfSAbMBQVVfeXFMTll4WGlYTmQ0M0hzc0tuNmpVY3E0WEp3TU45X3Q0NHFrR2ZEMm9YYVBEMFhLVFpfUkVDdHpVZW95aDU4TTFaVG8za3VacEF1dlFkb21aNWpDS09HSFYtd3FBQ3ZDOGt6NUtVZ1hqNUR3XzlMXzhRU1N1Rkh3alZFdUpxTFBrWGF4aVZ3ckpMejg2NDhtYzNVcnduS1haRlpHMGZPV2kyUnRLM1FBejRoejV0bFU?oc=5",
-          "source": "Metro.co.uk",
-          "date": "2026-10-18 06:00",
-          "description": "Chinese AI platform 'helped plan attack on London Underground' &nbsp;&nbsp; Metro.co.uk",
-          "metric": ""
-        },
-        {
-          "title": "The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOb0tIRTQ1MUFwZkk2TGMwckRaRDI2RUp3ZzBGYjdCaFo4ZWhUTzlrVzFEOWFMOERoakhGVnFPUUNBREZia3pCMmtpQUNtbFhvcm9IcnRORVdZNEpQWF8wdEY1Mzg1R2RqcndOU05GcjF3S19HLUVjcGp4WGJwazREUDI0eVlQOEJ0YVhMaW85SnVQZzdpQlVVaG03MFlEX1pvaS1mc2tGX0R6MjB0NjhvV0R3NmxWV1MxUk5nRHdid1NyWmpad3JUYXdqYWh4WU1tWnc?oc=5",
-          "source": "Stocktwits",
-          "date": "2026-10-18 01:42",
-          "description": "The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B &nbsp;&nbsp; Stocktwits",
+          "title": "Moonshot AI Releases Kimi K3 Architecture Details, 1.56 TB Model on Hugging Face",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUV4dmtwOFI5ZE55U01NVUhuWC1fTTRJamNjSFhMVlNpMlVjOGRFZlBySnlINnNmWHdvbjBhSlVHV0FwdUJ1WTYzRzE2SlNleENNaDRpc3FFNWxjZVFCMkNoZmxoYWtUMUZCejVMUl9IQklTNXdQNFVsQk5LaFVwZHc3WWtrSkEyMlhJX2l5MEE?oc=5",
+          "source": "TechJuice",
+          "date": "2026-10-19 06:53",
+          "description": "Moonshot AI Releases Kimi K3 Architecture Details, 1.56 TB Model on Hugging Face &nbsp;&nbsp; TechJuice",
           "metric": ""
         }
       ]
@@ -66,18 +66,26 @@
       "label": "Nya repos, skills & plugins",
       "items": [
         {
-          "title": "elsa4971/tmux-bridge-mcp",
-          "url": "https://github.com/elsa4971/tmux-bridge-mcp",
+          "title": "Rizuz69/client",
+          "url": "https://github.com/Rizuz69/client",
           "source": "GitHub nytt repo",
-          "date": "2026-10-19 21:15",
-          "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
+          "date": "2026-10-20 17:32",
+          "description": "FPS satírico de navegador: 5 facções brasileiras caricatas, 44 personagens, 5 mapas e 26 armas — rounds e Capture the Flag contra bots, direto na aba, sem instalar nada. Three.js + vanilla JS, zero build. Gerado em par com agentes de IA (Claude, Kimi, Codex/GPT, GLM) — AI generated & AI friendly.",
           "metric": "★ 0"
         },
         {
-          "title": "Beatriceh4206/tmux-bridge-mcp",
-          "url": "https://github.com/Beatriceh4206/tmux-bridge-mcp",
+          "title": "jerryj4245/agf",
+          "url": "https://github.com/jerryj4245/agf",
           "source": "GitHub nytt repo",
-          "date": "2026-10-19 14:56",
+          "date": "2026-10-20 09:10",
+          "description": "Find, search, and resume local AI coding-agent sessions across Muse Code, Claude Code, Codex, Antigravity, Grok, Kimi, Qwen, Gemini, Cursor, and more.",
+          "metric": "★ 0"
+        },
+        {
+          "title": "ChristopherButt000/tmux-bridge-mcp",
+          "url": "https://github.com/ChristopherButt000/tmux-bridge-mcp",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-20 05:45",
           "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
           "metric": "★ 0"
         },
@@ -90,28 +98,12 @@
           "metric": "★ 1"
         },
         {
-          "title": "TomoyaRoussel78090/tmux-bridge-mcp",
-          "url": "https://github.com/TomoyaRoussel78090/tmux-bridge-mcp",
+          "title": "gaurav8936/oneroof",
+          "url": "https://github.com/gaurav8936/oneroof",
           "source": "GitHub nytt repo",
-          "date": "2026-10-19 06:31",
-          "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
-          "metric": "★ 0"
-        },
-        {
-          "title": "theresaq82052/tmux-bridge-mcp",
-          "url": "https://github.com/theresaq82052/tmux-bridge-mcp",
-          "source": "GitHub nytt repo",
-          "date": "2026-10-19 06:15",
-          "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
-          "metric": "★ 0"
-        },
-        {
-          "title": "ayildirim8948/tmux-bridge-mcp",
-          "url": "https://github.com/ayildirim8948/tmux-bridge-mcp",
-          "source": "GitHub nytt repo",
-          "date": "2026-10-18 06:53",
-          "description": "Standalone MCP server for cross-pane AI agent communication via tmux. Lets Claude Code, Gemini CLI, Codex, and Kimi CLI talk to each other through tmux panes.",
-          "metric": "★ 0"
+          "date": "2026-10-19 01:01",
+          "description": "A native Mac command center for the coding agents you run — Claude Code, Codex, Kimi, Gemini CLI, Antigravity — plus a kit that keeps them on one workspace, one memory, one rulebook.",
+          "metric": "★ 2"
         }
       ]
     }

@@ -7,11 +7,43 @@
       "label": "Nyheter",
       "items": [
         {
+          "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+          "url": "https://news.ycombinator.com/item?id=50167583",
+          "source": "Hacker News",
+          "date": "2026-10-20 15:09",
+          "description": "",
+          "metric": "▲ 32 · 14 kommentarer"
+        },
+        {
+          "title": "Is GPT-6.1 Sol Using Up Codex Quota Faster? OpenAI Isn't Confirming",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkFXNzlsa29PV0NXVkk3NzBQMG5YamJfOWM3cnJUSHAtaDZBUmhGTDQtTV9WdkIwN2pBeFJkaEJrdHM5OFA2Vl9rWU81M0IxTmtkYkJ3Qkh0TDFXSXkzQ0RjLU5sNzd0OFJKQXE3MHpJT0xpSV9oSGhqVVBIUHBXdzVneDR3Z0NGUVBjM296dGg4dDg?oc=5",
+          "source": "Pasquale Pillitteri",
+          "date": "2026-10-20 11:21",
+          "description": "Is GPT-6.1 Sol Using Up Codex Quota Faster? OpenAI Isn't Confirming &nbsp;&nbsp; Pasquale Pillitteri",
+          "metric": ""
+        },
+        {
           "title": "AI Code Review Tools: Bugbot Beats Codex, 5 Rivals [2026]",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aTjl2cGJCQjZnS1VISURmLUdoYld5R3o2d2d1cEtjMjJ3MWpGYzdCSk1yTjdLaVR2UG5XUVR1OEJmNllsOVhVRi1VVTRzd0tycGNIdElLam9vLWtPUFY5SFI2T3Y0b0VYa1c5Q3JndE0?oc=5",
           "source": "shattered.io",
           "date": "2026-10-19 14:54",
           "description": "AI Code Review Tools: Bugbot Beats Codex, 5 Rivals [2026] &nbsp;&nbsp; shattered.io",
+          "metric": ""
+        },
+        {
+          "title": "UC Berkeley math community left at crossroads in wake of OpenAI Navier-Stokes proof",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOM01DcXJBZVo5Qnl3MlFyeGhfM29ZLWlua21iVklFc2N6bTR3SFdxZGNmM25PbGg2QjRwdVBQVmVSRHJXUGtDMmNXYlk5VDRkcjVscXFweE5xNkIyZDdFeXR3VU9fUHBZdjRtZW1WXzVzU19VVUx2V200QlhPVmFqbmJNaWpaZEpzZFlXWWZhSWo1eUdleVo5Q2FkUi1Lb3dlWHRXT0JiSTk5TTJUUGxFU3VQNy13UlFNSUNyTkl0N2ZaRlNDRG9wSFlGTm84azdtQ3dyVnRKaS1xQ3BTMUltM3VSMkVZNzlZOGZkZVNldG9VdmZvU0w2RWdtTWtfalBvSTViMFY4aWlIMkt3?oc=5",
+          "source": "Daily Cal",
+          "date": "2026-10-19 13:45",
+          "description": "UC Berkeley math community left at crossroads in wake of OpenAI Navier-Stokes proof &nbsp;&nbsp; Daily Cal",
+          "metric": ""
+        },
+        {
+          "title": "Claude Code, Codex CLI, OpenCode Update in 4 Days [2026]",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ajM5eGJKUVJSTndWalNFSGlXUkZRX2xIMl9LQ01RRWRCUlJwS1NUbjJtMVgtTWZ2d1lucUJDaG1JTnBOVXdzWjhjVzhIRU4ybHJWQUVjcjBwbE1DSGI5NGRHbzFrbld4WjFuNUVSbWMyTmplaFpvNF9CSQ?oc=5",
+          "source": "shattered.io",
+          "date": "2026-10-19 13:33",
+          "description": "Claude Code, Codex CLI, OpenCode Update in 4 Days [2026] &nbsp;&nbsp; shattered.io",
           "metric": ""
         },
         {
@@ -37,38 +69,6 @@
           "date": "2026-10-19 02:30",
           "description": "From Product Brief to Campaign-Ready Ad in 4 Minutes With Higgsfield &nbsp;&nbsp; The Economic Times",
           "metric": ""
-        },
-        {
-          "title": "AI Reverse Engineering Shakes Software Industry",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcFphOWlDWVdCWl9LUnlaWGdoX2JuUUNaODVxaVR6YmdHMHZldVd3WFpJendhSWxCcW9zWkZwV250bk1LRy1nR2JFXy1XWUpkdUphZlpaQnZRMGFmc2RDRnU0aGRDdV9fNWpCYzVCemREcU84dkVKV1ZXUjhlTWtQS25XVm5PTlpr?oc=5",
-          "source": "조선일보",
-          "date": "2026-10-19 02:24",
-          "description": "AI Reverse Engineering Shakes Software Industry &nbsp;&nbsp; 조선일보",
-          "metric": ""
-        },
-        {
-          "title": "8000-Word Exclusive: The Dramatic Untold History of Codex's Epic Comeback Against ChatGPT – First Public Unveiling",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96SzlibGlIUmV2aENrR1NIcjUtNGZDbjdxNmlmT3I0bEhDamk0Wno1cXhqWEdPSk5oYml3Sllmb18zajZQMWw2bWdnWndVSmFnNUdz?oc=5",
-          "source": "36Kr",
-          "date": "2026-10-19 01:42",
-          "description": "8000-Word Exclusive: The Dramatic Untold History of Codex's Epic Comeback Against ChatGPT – First Public Unveiling &nbsp;&nbsp; 36Kr",
-          "metric": ""
-        },
-        {
-          "title": "OpenAI shares case of automating software maintenance using GPT-6",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDJlOWQ2V0FnVFllUU1MaEUtNW4tMEdGVTNLbjNCQkdHU28wcnVtb3B6ekRjWnplT3JlVG5iYVo1Q3Z1NFF4S2FmVmNwYUZZY1BKOVJsRkJ3dEZuVXlHOTg3dEtFQ19sS0hobVdqcFdMNUxUeS1TV3o5YjRCMWdJOEVFZ082X08tY0VzU21TdU1LbVo2NE5fQkpvY0tjYk50UUJSMGdERmRIXzYzaHFNUg?oc=5",
-          "source": "디지털투데이",
-          "date": "2026-10-18 12:08",
-          "description": "OpenAI shares case of automating software maintenance using GPT-6 &nbsp;&nbsp; 디지털투데이",
-          "metric": ""
-        },
-        {
-          "title": "Codex Desktop Fills Mac Disks With Unbounded Crash Dumps in Handler Loop",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGVOM2FlVFBmblFEeGxxc0djcnItX1ZKSmhjWVJqS1YzT1Q1M0lxbXM3TDE5MXMzalhNekFmdFNmVENfNzBkdkR1NGNGTkIwek41X1FoSWZUVFFvMVRfZTJjM1VVSDROQVUzNE5meEFqc0Q3dWg3cl83NGJjM1g0Wm9mYjNKSzB2bng4bnhXaG1uUnFyM0l1TmM5Q2RQdjJhb3Rr?oc=5",
-          "source": "news.lavx.hu",
-          "date": "2026-10-18 01:43",
-          "description": "Codex Desktop Fills Mac Disks With Unbounded Crash Dumps in Handler Loop &nbsp;&nbsp; news.lavx.hu",
-          "metric": ""
         }
       ]
     },
@@ -76,6 +76,38 @@
       "kind": "release",
       "label": "Releaser",
       "items": [
+        {
+          "title": "@openai/codex 0.164.0-alpha.7",
+          "url": "https://www.npmjs.com/package/@openai/codex/v/0.164.0-alpha.7",
+          "source": "npm release",
+          "date": "2026-10-20 13:58",
+          "description": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
+          "metric": "0.164.0-alpha.7"
+        },
+        {
+          "title": "openai/codex: 0.164.0-alpha.7",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.7",
+          "source": "GitHub release",
+          "date": "2026-10-20 13:47",
+          "description": "Release 0.164.0-alpha.7",
+          "metric": "rust-v0.164.0-alpha.7"
+        },
+        {
+          "title": "@openai/codex 0.164.0-alpha.6",
+          "url": "https://www.npmjs.com/package/@openai/codex/v/0.164.0-alpha.6",
+          "source": "npm release",
+          "date": "2026-10-19 23:02",
+          "description": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
+          "metric": "0.164.0-alpha.6"
+        },
+        {
+          "title": "openai/codex: 0.164.0-alpha.6",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.6",
+          "source": "GitHub release",
+          "date": "2026-10-19 22:48",
+          "description": "Release 0.164.0-alpha.6",
+          "metric": "rust-v0.164.0-alpha.6"
+        },
         {
           "title": "@openai/codex 0.164.0-alpha.5",
           "url": "https://www.npmjs.com/package/@openai/codex/v/0.164.0-alpha.5",
@@ -91,22 +123,6 @@
           "date": "2026-10-19 14:23",
           "description": "Release 0.164.0-alpha.5",
           "metric": "rust-v0.164.0-alpha.5"
-        },
-        {
-          "title": "@openai/codex 0.164.0-alpha.4",
-          "url": "https://www.npmjs.com/package/@openai/codex/v/0.164.0-alpha.4",
-          "source": "npm release",
-          "date": "2026-10-19 10:58",
-          "description": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
-          "metric": "0.164.0-alpha.4"
-        },
-        {
-          "title": "openai/codex: 0.164.0-alpha.4",
-          "url": "https://github.com/openai/codex/releases/tag/rust-v0.164.0-alpha.4",
-          "source": "GitHub release",
-          "date": "2026-10-19 10:42",
-          "description": "Release 0.164.0-alpha.4",
-          "metric": "rust-v0.164.0-alpha.4"
         }
       ]
     },
@@ -115,20 +131,28 @@
       "label": "Nya repos, skills & plugins",
       "items": [
         {
+          "title": "LinqiuZz/notion-ai-proxy",
+          "url": "https://github.com/LinqiuZz/notion-ai-proxy",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-20 07:03",
+          "description": "把 Notion AI 网页登录态反代成本地 OpenAI / Anthropic / Responses 兼容接口：30+ 模型、Claude Code / Codex / cc-switch 接入、单文件 exe、自动改代码 agent。",
+          "metric": "★ 3"
+        },
+        {
+          "title": "CosturaAI/costura",
+          "url": "https://github.com/CosturaAI/costura",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-19 17:57",
+          "description": "Self-hosted AI spend attribution for Anthropic, Claude.ai, OpenAI, Codex, OpenRouter, Cursor, and GitHub Copilot.",
+          "metric": "★ 2"
+        },
+        {
           "title": "welsir/ai-api-guide",
           "url": "https://github.com/welsir/ai-api-guide",
           "source": "GitHub nytt repo",
           "date": "2026-10-19 13:39",
           "description": "AI API / LLM guide: model selection, pricing, OpenAI-compatible endpoints, Claude Code & Codex integration, troubleshooting. AI API 模型选型、价格对比、工具接入与排错指南。Claude / GPT / Gemini / DeepSeek / Kimi / Qwen. By Orbis.",
-          "metric": "★ 6"
-        },
-        {
-          "title": "eased-tech/switchkick",
-          "url": "https://github.com/eased-tech/switchkick",
-          "source": "GitHub nytt repo",
-          "date": "2026-10-19 09:05",
-          "description": "Local proxy that routes OpenAI and Anthropic API traffic through OpenRouter, picking a model for each turn.",
-          "metric": "★ 2"
+          "metric": "★ 5"
         },
         {
           "title": "Dayc-l/claude-codex-session-link",
@@ -139,28 +163,20 @@
           "metric": "★ 8"
         },
         {
+          "title": "mijatovicmilan/image-gen",
+          "url": "https://github.com/mijatovicmilan/image-gen",
+          "source": "GitHub nytt repo",
+          "date": "2026-10-19 05:50",
+          "description": "Generate and edit images in Claude Code with your ChatGPT plan, via Codex. No API key needed.",
+          "metric": "★ 2"
+        },
+        {
           "title": "shuishuipingan/trae2api-hub",
           "url": "https://github.com/shuishuipingan/trae2api-hub",
           "source": "GitHub nytt repo",
           "date": "2026-10-19 05:25",
           "description": "Trea国际国内多账号反代网关，Trae 国际/国内双区多账号 OpenAI 兼容网关 — 直连推理、账号池、模型目录、额度预警/自动降级、API Key 配额与白名单、图形化看板、Docker 零依赖",
-          "metric": "★ 4"
-        },
-        {
-          "title": "ivanusto/mitosis-orchestrator",
-          "url": "https://github.com/ivanusto/mitosis-orchestrator",
-          "source": "GitHub nytt repo",
-          "date": "2026-10-19 04:06",
-          "description": "Cross-model frontier orchestrator for Google Antigravity (agy), Claude Code and OpenAI Codex CLI: a frontier primary plans and integrates while haiku/flash-lite scouts and sonnet/flash workers do lookups, tests and edits under hook-enforced guardrails. 跨模型尖端編排外掛：主核尖端模型負責規劃與整合，偵察與執行交給 haiku、sonnet 等子",
-          "metric": "★ 2"
-        },
-        {
-          "title": "hsuanshao/AgentMemory",
-          "url": "https://github.com/hsuanshao/AgentMemory",
-          "source": "GitHub nytt repo",
-          "date": "2026-10-18 10:37",
-          "description": "Self-hosted memory service for AI agents, written in Rust: layered L0→L3 memory, async LLM distillation, hybrid BM25 + vector recall, and multi-tenant isolation. SQLite or Postgres, any OpenAI-compatible LLM.",
-          "metric": "★ 6"
+          "metric": "★ 7"
         }
       ]
     }

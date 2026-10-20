@@ -44,4 +44,4 @@ plus `errors[]` listing sources that failed this run.
 | https://raw.githubusercontent.com/Teknikfix/ai-news-digest/main/sections/grok.json | Only Grok |
 | https://raw.githubusercontent.com/Teknikfix/ai-news-digest/main/history/YYYY-MM-DD.json | Daily archive |
 
-Last updated: 2026-10-19 21:17 UTC
+Last updated: 2026-10-20 21:17 UTC
