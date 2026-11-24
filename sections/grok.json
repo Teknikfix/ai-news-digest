@@ -7,67 +7,67 @@
       "label": "Nyheter",
       "items": [
         {
-          "title": "SpaceX quarterly revenue beats estimates as AI business surges",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcFZHYl9FazlBbnZvdVhFakp0M3Nqa0JHMGZLenpPRGRBZW83NUgtcTlHb2pFdjF0bWVNbDhoOGJhNDExaTJ1Vl8wZlNUX29TNUw1d0dlSHpONjllaldXZ00zRDBvY2xDcVRSLTNBc0J4cmIzcmpVNWJRamY0NWpfVlVfUnhNeU9odEJoNGVvMXdQNE82aGxvQzNR?oc=5",
-          "source": "The Independent",
-          "date": "2026-10-20 20:55",
-          "description": "SpaceX quarterly revenue beats estimates as AI business surges &nbsp;&nbsp; The Independent",
-          "metric": ""
-        },
-        {
-          "title": "Ask HN: Will AI = extreme concentration of power?",
-          "url": "https://news.ycombinator.com/item?id=50172133",
+          "title": "The Internet Broke Our Taste. Will A.I. Destroy It for Good?",
+          "url": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
           "source": "Hacker News",
-          "date": "2026-10-20 20:23",
-          "description": "",
-          "metric": "▲ 2 · 5 kommentarer"
-        },
-        {
-          "title": "SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORkY5T3VLWnl3a1FLeklzUXNDd3UyQlNFZXVPbExpUTVxcVdFMldXTmVfQUswN1V6NXR3aGdMNFdodl9HbE9sSjIwajBMTWdnZGxMZnRxM3JQVnpFT2w0dElWcVlpQ1BxT0RyX1hoR1hKRG5BZTJtc2twYTNncVluY3BjbUM4M3VjR0dqNi0zT0xYTmhRek1peGtSM2poR0FrMEhVNVd0TmhtcWRTWGFsMGRZVGR3amdTV1J0YzVmNGNYemVaVHVaejNqRGRHNEJhMi1YdlIzN0ZTN2RXNjNvbjM3VWR1V3FkUkdVVjRpQUFremvSAfgBQVVfeXFMT0ZILXRjTk81aE91X0hqUzViQ3VzYUtVQmhZUFQyNUFCMk9ncGpJTXJ0RVlFWVo0SXlZc3lDTV91bFo1UFNrVGVmNTcwWl9WS2VnQUFhcENTNHRWcThYS2s1VUxJcDZYWDFrUVRNVF9XOF9BLXJhT0tNdlloNFV4NktTRGZtVk1JbF9LWS03c012X3JpNnJoTUhibHloNGdKVkxPUTJvQnVBVjBCZlpOSmxHd0FsaU9RbHNnR0w3S2ViekpCM2JtTmlsUDNGcnQtT2FIT2tzRktWS0d1MFhCcUR6R3g3dTFwR2JWVkFhdUdIWGxmNHppQmU?oc=5",
-          "source": "The Economic Times",
-          "date": "2026-10-20 20:20",
-          "description": "SpaceX Q3 revenue soars 161% YoY on AI business growth, beating estimates &nbsp;&nbsp; The Economic Times",
-          "metric": ""
-        },
-        {
-          "title": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGg4ODNrakthM1Q4c2VNemhHVVJJX3RSbEwtdFMxR2gxaDhJWG95UzZsUUExQlh1TS1vNGk2bUlBai1pYTF1NFdGVTVrZ3pvM0toS1VXaHo2UXpVbDd0aldnaE1jd0NURzgxZlRTUWlPcWVncWNmZzFSZzl1Um9DaWFqbnZicGVOMF9qM0dGN0QwVnYyNmtCaWJGT3lLVi1qdlpIcGx0bERuVlotei1vM3RBekxfTm1kcGZ3dDFxeFlOQnpkMU04RDJKNNIBywFBVV95cUxNdGg4ODNrakthM1Q4c2VNemhHVVJJX3RSbEwtdFMxR2gxaDhJWG95UzZsUUExQlh1TS1vNGk2bUlBai1pYTF1NFdGVTVrZ3pvM0toS1VXaHo2UXpVbDd0aldnaE1jd0NURzgxZlRTUWlPcWVncWNmZzFSZzl1Um9DaWFqbnZicGVOMF9qM0dGN0QwVnYyNmtCaWJGT3lLVi1qdlpIcGx0bERuVlotei1vM3RBekxfTm1kcGZ3dDFxeFlOQnpkMU04RDJKNA?oc=5",
-          "source": "Devdiscourse",
-          "date": "2026-10-20 20:05",
-          "description": "SpaceX quarterly revenue jumps, beats estimates as AI business surges &nbsp;&nbsp; Devdiscourse",
-          "metric": ""
-        },
-        {
-          "title": "Judge allows lawsuit against SpaceXAI to continue",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUVI0SUp1dnBQTWNyRkZnSTJWdUx3Y05pM2ozaHJXMVFVZnpPUTNhYWVldGlaR3pEN21yQWdRdTgweWlmaDA0WlU1dllGRWRZVDZKMXZLdXNJNDV4dnNkdFNtcV9OaU1EU3ozdkR5SW50QmhKRWJIUmxCdHp5cjdiSldfTldEUi1zTE5nazhVTQ?oc=5",
-          "source": "Action News 5",
-          "date": "2026-10-20 19:51",
-          "description": "Judge allows lawsuit against SpaceXAI to continue &nbsp;&nbsp; Action News 5",
-          "metric": ""
-        },
-        {
-          "title": "Anthropic S-1 Shows Red-Hot Growth, Risks and Computing Costs",
-          "url": "https://www.wsj.com/tech/ai/anthropic-revenue-growth-ipo-accaf0f1",
-          "source": "Hacker News",
-          "date": "2026-10-20 19:34",
-          "description": "",
-          "metric": "▲ 12 · 1 kommentarer"
-        },
-        {
-          "title": "Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop",
-          "url": "https://respawnfirst.com/demands-for-ai-filter-steam-next-fest-ai-slop/",
-          "source": "Hacker News",
-          "date": "2026-10-20 18:15",
+          "date": "2026-11-24 21:19",
           "description": "",
           "metric": "▲ 2 · 0 kommentarer"
         },
         {
-          "title": "NYC Council Holds Follow-Up AI Safety Hearing on SpaceXAI",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQTR3RWVJT051ZmpnUXg1S0R0eEdvbldXaUdpMEttV3RQYV8zWVJKMkhOekk2TEpEc21ZMG5GUmRvWjZrWU9NWDRyWHoxMENmYk9Zc1pGWjBCT1dZX0g0N0ZvQjQ3U3hveXZoZTRRNjNrSmV6ZWNVRS1rX01IdGVoV0lJektDZzRaVXBSNkItcFVKUFQ3RUZITEFuUkJUNHpkMXd3TmV6UXo?oc=5",
-          "source": "BKReader",
-          "date": "2026-10-20 17:37",
-          "description": "NYC Council Holds Follow-Up AI Safety Hearing on SpaceXAI &nbsp;&nbsp; BKReader",
+          "title": "Grok Users Digitally Removed My Hijab and Made Sexual Deepfakes of Me. Now I’m Suing Elon Musk’s xAI",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFR2xHUzJQTkg4NTh0aDlaM2pNV1hXeFVOb00wWVhQdXgwcTNnQnB2ZjFMZGZZckN5MnhpZXdrZ00wX3dJeVhwRE9LaG94QUdCNWFZMk11VTFJbmVaNFZ2bGRydzJMQkZJbXBSMFltbE1kREc5SVVSRHI4UQ?oc=5",
+          "source": "Cosmopolitan",
+          "date": "2026-11-24 21:06",
+          "description": "Grok Users Digitally Removed My Hijab and Made Sexual Deepfakes of Me. Now I’m Suing Elon Musk’s xAI &nbsp;&nbsp; Cosmopolitan",
+          "metric": ""
+        },
+        {
+          "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+          "url": "https://news.ycombinator.com/item?id=50634426",
+          "source": "Hacker News",
+          "date": "2026-11-24 20:44",
+          "description": "",
+          "metric": "▲ 36 · 18 kommentarer"
+        },
+        {
+          "title": "Amazon, eBay AI Toy Sales Must Stop, Says Global Coalition of Over 150 Groups...",
+          "url": "https://fairplayforkids.org/amazon-ebay-ai-toy-sales-must-stop-says-global-coalition-of-over-150-groups-and-experts-from-6-continents/",
+          "source": "Hacker News",
+          "date": "2026-11-24 20:25",
+          "description": "",
+          "metric": "▲ 4 · 1 kommentarer"
+        },
+        {
+          "title": "Show HN: GrowPython, an AI agent that runs outreach up to the booked call",
+          "url": "https://growpython.com/",
+          "source": "Hacker News",
+          "date": "2026-11-24 19:52",
+          "description": "",
+          "metric": "▲ 1 · 0 kommentarer"
+        },
+        {
+          "title": "Oregon, Virginia sue Musk’s SpaceX, allege Grok AI generated sexualized images of children",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUkRXclZMTHExNFZyUmszajVQTU5qcDgxWkxSV2FrQjNTZ0tENWVON28yZHFrcHZjNnFIYlYzWW80WkFHUTV3SEg4VGdCd1FVVFJ1cjQzcEZmcHJCTXhJZVR2d0hOMnJBVldtUHNTcV93YlFfSHI1Q0xnNkpQRzh4RTVvOUZqM0piN1FhSG9RLVBmWmxPTW5GcF9aZm1IdDdnVjZ6RGJBdXhvRVJoMDlv?oc=5",
+          "source": "MEAWW News",
+          "date": "2026-11-24 18:01",
+          "description": "Oregon, Virginia sue Musk’s SpaceX, allege Grok AI generated sexualized images of children &nbsp;&nbsp; MEAWW News",
+          "metric": ""
+        },
+        {
+          "title": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages",
+          "url": "https://joonoo.art/create-comic",
+          "source": "Hacker News",
+          "date": "2026-11-24 17:53",
+          "description": "",
+          "metric": "▲ 1 · 1 kommentarer"
+        },
+        {
+          "title": "What Is Grok AI? Free Tier, Grok 4.7 and Prices (2026)",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9JM0ZtUldQRjVRUUI0UzNEdUpSQ1plQ242NE9KaV9JdlBhcjVlX0g0Tl9zWU9uWmo0Qm9FeEstTXdlQlBOaElSNzdZWXQ?oc=5",
+          "source": "Fello AI",
+          "date": "2026-11-24 16:47",
+          "description": "What Is Grok AI? Free Tier, Grok 4.7 and Prices (2026) &nbsp;&nbsp; Fello AI",
           "metric": ""
         }
       ]
@@ -82,52 +82,52 @@
       "label": "Nya repos, skills & plugins",
       "items": [
         {
-          "title": "Grok-Chat/Grok",
-          "url": "https://github.com/Grok-Chat/Grok",
+          "title": "harsipsum/grokbot-rea",
+          "url": "https://github.com/harsipsum/grokbot-rea",
           "source": "GitHub nytt repo",
-          "date": "2026-10-20 20:03",
-          "description": "Grok Chat is Grok for live answers on the web, on X, and in the phone apps. grok bot can act for you, grok build edits a repo, and grok code is the coding pass next to voice, images, video, and web search.",
+          "date": "2026-11-23 17:16",
+          "description": "Grok Bot, REA'd: a reverse-engineering study of the Grok Bot desktop app. Findings only, no app code. Independent, not affiliated with xAI.",
           "metric": "★ 0"
         },
         {
-          "title": "echris6/grokbot-templates",
-          "url": "https://github.com/echris6/grokbot-templates",
+          "title": "MZStark/grok-account-research-fr",
+          "url": "https://github.com/MZStark/grok-account-research-fr",
           "source": "GitHub nytt repo",
-          "date": "2026-10-20 08:00",
-          "description": "Business-in-a-box templates for xAI Grok Bot: AI Influencer, Motion Studio, Spatial Studio (three.js). Sells through Whop.",
+          "date": "2026-11-23 12:13",
+          "description": "Account-research agent (Grok API) for selling Grok Bot to French Mid-Market companies: account brief, 3 use cases, first outreach message in French.",
           "metric": "★ 0"
         },
         {
-          "title": "adamsonwalter/grokbot-phone-caller",
-          "url": "https://github.com/adamsonwalter/grokbot-phone-caller",
+          "title": "forcequit/twilio-grok-voice-bridge",
+          "url": "https://github.com/forcequit/twilio-grok-voice-bridge",
           "source": "GitHub nytt repo",
-          "date": "2026-10-20 00:56",
-          "description": "Free Grok Bot phone-call template: Telnyx + xAI realtime voice, bring your own keys",
+          "date": "2026-11-23 08:41",
+          "description": "Let your Grok Bot place phone calls from any country: Twilio + xAI Grok Voice bridge template",
           "metric": "★ 0"
         },
         {
-          "title": "lookiyam-94/omarchy-event-horizon-theme",
-          "url": "https://github.com/lookiyam-94/omarchy-event-horizon-theme",
+          "title": "davidYichengWei/x-via-grokbot",
+          "url": "https://github.com/davidYichengWei/x-via-grokbot",
           "source": "GitHub nytt repo",
-          "date": "2026-10-19 21:01",
-          "description": "Monochrome Omarchy theme inspired by X, xAI, Grok and Grok Bot",
+          "date": "2026-11-23 08:27",
+          "description": "Let your coding agent search and read X (Twitter) through your existing Grok Bot subscription — no X API or xAI API key needed.",
           "metric": "★ 0"
         },
         {
-          "title": "crofanatik1-wq/Grok",
-          "url": "https://github.com/crofanatik1-wq/Grok",
+          "title": "ViateAI/viate-plugin-xai-oauth",
+          "url": "https://github.com/ViateAI/viate-plugin-xai-oauth",
           "source": "GitHub nytt repo",
-          "date": "2026-10-19 13:53",
-          "description": "Grok xai",
+          "date": "2026-11-23 06:10",
+          "description": "Viate provider for the xAI API via Grok CLI OAuth.",
           "metric": "★ 0"
         },
         {
-          "title": "TuDouPn/dsh-grok-xai",
-          "url": "https://github.com/TuDouPn/dsh-grok-xai",
+          "title": "Eniggman/telegram-grok-wake",
+          "url": "https://github.com/Eniggman/telegram-grok-wake",
           "source": "GitHub nytt repo",
-          "date": "2026-10-19 05:19",
-          "description": "Unofficial DeepSeek Harness plugin: use a SuperGrok / X Premium subscription, Grok models, live usage, models and pricing.",
-          "metric": "★ 1"
+          "date": "2026-11-23 00:28",
+          "description": "Подключите вашего GrokBot в Бота Telegram. Используйте Serverless телеграм для размещения вебхука",
+          "metric": "★ 0"
         }
       ]
     }

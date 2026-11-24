@@ -7,68 +7,68 @@
       "label": "Nyheter",
       "items": [
         {
-          "title": "Anthropic’s Claude Designed Hundreds Of Thousands Of Proteins In 64 Hours To Target Scorpion Venom",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbVAza3ZoTWZjSFpKc3c1OE1IN1BNUDMxdVpHZ2pfc1NNZ2xtOWtocjZEWEYtZ0lFQXlpcnNhbHpTeXd4UzN4OWVqZnhPaWlYSEMzUzltNXpVZ0pPb01pdm14UTFseGVFc1ZrYjBrU2sxa0RtcjZIUHB2a1FxLWctTDROS19QOHJWeWZWNndNVnFHZnRiZU04UHdfa055LTFxSWFTWWprTTRXZkFpak1UdnFGVk1uRF9nS3hPSGF6T2g3NkhzVDlleXRCWHJoSU1qcDJlNkVaeUhzWVR6RzVubHRUSVBmUG1XTHMtaUd1bkw5czA?oc=5",
-          "source": "Benzinga",
-          "date": "2026-10-20 20:39",
-          "description": "Anthropic’s Claude Designed Hundreds Of Thousands Of Proteins In 64 Hours To Target Scorpion Venom &nbsp;&nbsp; Benzinga",
-          "metric": ""
-        },
-        {
-          "title": "Ask HN: Will AI = extreme concentration of power?",
-          "url": "https://news.ycombinator.com/item?id=50172133",
+          "title": "Show HN: CheckMyApp – checks your live app with each deploy from coding agent",
+          "url": "https://checkmyapp.dev",
           "source": "Hacker News",
-          "date": "2026-10-20 20:23",
-          "description": "",
-          "metric": "▲ 2 · 5 kommentarer"
-        },
-        {
-          "title": "Show HN: Agent-Zero – Starter template for AI-native coding projects",
-          "url": "https://github.com/amorey/agent-zero",
-          "source": "Hacker News",
-          "date": "2026-10-20 20:21",
+          "date": "2026-11-24 22:13",
           "description": "",
           "metric": "▲ 1 · 0 kommentarer"
         },
         {
-          "title": "Claude’s values and Anthropic’s stated approach",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWRBRy16U2w2bUg5WEJmdjctYXcxTnlmVnJreTlBV1JfbzRHdEpHT01jNzE0Y2NMZ1Z4eEt4ZUZHakNySmV2bFhLZW54V19FU3pNRjVoNmpyTUVGTC1obFNac2dXdkFCSVpVVTdZYllKLUVDV1ZjbkVvckVSbTJEcHllWVhCT1J6dElwWFpSWEtfUmNVaXBZYm9wNGZwNkgtN2VnNnhR?oc=5",
-          "source": "NeoTeo",
-          "date": "2026-10-20 20:10",
-          "description": "Claude’s values and Anthropic’s stated approach &nbsp;&nbsp; NeoTeo",
+          "title": "Addy Osmani from Anthropic: A practical guide to shipping with Claude Code",
+          "url": "https://claude.dev/blog/the-work-after-you-open-a-pr/",
+          "source": "Hacker News",
+          "date": "2026-11-24 22:09",
+          "description": "",
+          "metric": "▲ 1 · 1 kommentarer"
+        },
+        {
+          "title": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQnJkYjV3SVM2d3J1VEtRcFpxbkQtUzZybjhiLVhnQW9qMm14YklTTGNFbnhfRnJ4dWJjN0lqTXFNNFAtZXhPcmFCSDd5MURmWlFUeHRtWVpSZHJWZWY3RloxZ2c5al9VckhJSU95dUc4Ykh3OVBYRDVaMjNJWG5pSVMwQ0I4d2c?oc=5",
+          "source": "Decrypt",
+          "date": "2026-11-24 21:46",
+          "description": "Anthropic’s Claude Ship Lets AI Write, Review and Approve Its Own Code &nbsp;&nbsp; Decrypt",
           "metric": ""
         },
         {
-          "title": "Claude Opus 5.5 vs GPT-6 Astra- Anthropic’s New AI Model Explained",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZHhXSnIxaFQ4THRBalAtckI4TUpRSkdzQzdIT0I4c2JxRElGMHJySXdoR1puTlhUSXNEakNkRXVnZ3p3TDg5V29vakNUMUU5S213V1dyWWRfMldTTVl5cV9XUktuVXlENlZ6SXB3U0YydEJldFhnUGNEWG9vRTJZMG5oNlN4ek1iSTRpQ2Vhd2FTY1I5QkMzbkNRd3k3bmFja3JB?oc=5",
-          "source": "TechRepublic",
-          "date": "2026-10-20 19:57",
-          "description": "Claude Opus 5.5 vs GPT-6 Astra- Anthropic’s New AI Model Explained &nbsp;&nbsp; TechRepublic",
+          "title": "Anthropic lets Claude users install artifacts as their own desktop apps on Mac and Windows",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEN1RkhJTzNVVG4wWnBTSUpDZ2xIeF9oSUxMb1NnYjdaSktQbjY2bUhNaC12aWtmWG1WeGNJV2pJMkVRdVNrY1BYcHVka0pFMWdENnFGTUE2dWRocjhlZEs5VW9QM1VjT04xWXRCMXR1WXVmZUdTMHpMV2t0X3ROUWlUZEdoOVNITW5GbUFfcWZsdWM0dU5YeHdVSXMzZzB6alpQRnZKdkJ1WTh6X3I1QQ?oc=5",
+          "source": "MLQ.ai",
+          "date": "2026-11-24 21:42",
+          "description": "Anthropic lets Claude users install artifacts as their own desktop apps on Mac and Windows &nbsp;&nbsp; MLQ.ai",
           "metric": ""
         },
         {
-          "title": "Show HN: What the Harness? LLM agent inconsistencies in MCP implementation",
-          "url": "https://what-the-harness.polytomic.com",
-          "source": "Hacker News",
-          "date": "2026-10-20 18:40",
-          "description": "",
-          "metric": "▲ 1 · 0 kommentarer"
+          "title": "How to Install Claude Artifacts as Desktop Apps on Mac and Windows",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Iam4xbnk2cTlELXFxNHdWRjdrYVZkbFZySGhVYkxTWW85QllNdEE0Tjd1blBwcHZEbGhjb1dPb1lCMjFId0VuMDNQWmo0bWdjTGRocmVTemVyaXJlOWN3NDdIMnMwSi02aklJRTVuZDI?oc=5",
+          "source": "Kingy AI",
+          "date": "2026-11-24 21:39",
+          "description": "How to Install Claude Artifacts as Desktop Apps on Mac and Windows &nbsp;&nbsp; Kingy AI",
+          "metric": ""
         },
         {
-          "title": "Show HN: Gauge CLI – Open-Source Hillclimbing for Agent Experience",
-          "url": "https://github.com/gauge-sh/gauge-cli",
-          "source": "Hacker News",
-          "date": "2026-10-20 18:01",
-          "description": "",
-          "metric": "▲ 5 · 0 kommentarer"
+          "title": "Claude can now turn artifacts into semi-independent Mac apps",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2VaSUlmV0VvY0JWMURIb2JUQlpqRUw3bkhvVTZxSTlQdWlmWmhrNWpnU1dRMC1xZ1NsS2g0bmgwSTlvcEYzcUE5b0xoMlRWTnFrc2lnai00aXdUM0NvcXZmeFJad2lXWkFNMkRVclpFZnFjd0tmTEtYb09PRmd3TVJuSHlFMWVHVjlPZWFDNmJkT0pKTEJtbEJwYnU3WHdLZXhBWmln?oc=5",
+          "source": "AppleInsider",
+          "date": "2026-11-24 21:27",
+          "description": "Claude can now turn artifacts into semi-independent Mac apps &nbsp;&nbsp; AppleInsider",
+          "metric": ""
         },
         {
-          "title": "Claude designed protein binders against scorpion neurotoxins",
-          "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+          "title": "Ask HN: Least cringe AI for natural language?",
+          "url": "https://news.ycombinator.com/item?id=50634900",
           "source": "Hacker News",
-          "date": "2026-10-20 17:48",
+          "date": "2026-11-24 21:21",
           "description": "",
-          "metric": "▲ 53 · 22 kommentarer"
+          "metric": "▲ 2 · 3 kommentarer"
+        },
+        {
+          "title": "Cisco taps Anthropic’s Claude Mythos",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE94eWhkTWt2UEMxNmZQYVFTajd5VEZ6Mm9zRERHbnFMMHdLbVBqNW1oajEyUmdkMGZDZWZGOTlpT1JaSEt3eFRDR1JsMG1SZ09vaTJsUmJqeHhrRXVCQzlOU0R4Yk5YX0RJd2g4WWRPVXJfQXIwSEk2QQ?oc=5",
+          "source": "Daily Tribune",
+          "date": "2026-11-24 21:21",
+          "description": "Cisco taps Anthropic’s Claude Mythos &nbsp;&nbsp; Daily Tribune",
+          "metric": ""
         }
       ]
     },
@@ -77,44 +77,28 @@
       "label": "Releaser",
       "items": [
         {
-          "title": "anthropics/claude-code v2.1.305",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
-          "source": "GitHub release",
-          "date": "2026-10-20 20:46",
-          "description": "## What's changed - Added `sandbox.allowNestedUserNamespaces` so sandboxed commands on Linux can create user namespaces (Chromium, rootless podman); this lets them get around the sandbox's file protections - Added `CLAUDE_CODE_RETRY_WATCHDOG_USAGE_LIMIT_RECHECK_MS` so unattended retry mode (`CLAUDE_",
-          "metric": "v2.1.305"
-        },
-        {
-          "title": "@anthropic-ai/claude-code 2.1.305",
-          "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.305",
+          "title": "@anthropic-ai/claude-code 2.1.332",
+          "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.332",
           "source": "npm release",
-          "date": "2026-10-20 19:29",
+          "date": "2026-11-24 22:06",
           "description": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.",
-          "metric": "2.1.305"
+          "metric": "2.1.332"
         },
         {
-          "title": "anthropics/claude-code v2.1.304",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.304",
+          "title": "anthropics/claude-code v2.1.331",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.331",
           "source": "GitHub release",
-          "date": "2026-10-19 21:34",
-          "description": "## What's changed - Added a transcript line when a plugin that runs first skips one of your mod's hooks, naming the event and the plugin - Added `decider: \"person\"` to a mod's `tool.check` answer: only the permission dialog or a host's callback can approve the ask, and it is refused with the mod's r",
-          "metric": "v2.1.304"
+          "date": "2026-11-23 21:34",
+          "description": "## What's changed - Added Code Mode support in terminal sessions on Amazon Bedrock, Google Cloud's Agent Platform, Microsoft Foundry and Claude Platform on AWS - Added `oidc.groups_jsonpath` to the Claude apps gateway, to read groups from the matching entries of a list of objects with a small subset",
+          "metric": "v2.1.331"
         },
         {
-          "title": "@anthropic-ai/claude-code 2.1.304",
-          "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.304",
+          "title": "@anthropic-ai/claude-code 2.1.331",
+          "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.331",
           "source": "npm release",
-          "date": "2026-10-19 19:47",
+          "date": "2026-11-23 18:36",
           "description": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.",
-          "metric": "2.1.304"
-        },
-        {
-          "title": "anthropics/claude-code v2.1.303",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.303",
-          "source": "GitHub release",
-          "date": "2026-10-18 22:26",
-          "description": "## What's changed - Bug fixes and reliability improvements",
-          "metric": "v2.1.303"
+          "metric": "2.1.331"
         }
       ]
     },
@@ -123,51 +107,51 @@
       "label": "Nya repos, skills & plugins",
       "items": [
         {
-          "title": "devsolux/harness-plugin",
-          "url": "https://github.com/devsolux/harness-plugin",
+          "title": "JayeshJain25/flutter-current",
+          "url": "https://github.com/JayeshJain25/flutter-current",
           "source": "GitHub nytt repo",
-          "date": "2026-10-20 17:35",
-          "description": "Harness plugin for Claude Code and Codex: marketplace, Skills and runtime releases",
+          "date": "2026-11-24 14:51",
+          "description": "Agent Skill / Claude Code plugin that keeps coding agents on current Flutter & Dart APIs",
           "metric": "★ 1"
         },
         {
-          "title": "pandalabs-dev/skill-router",
-          "url": "https://github.com/pandalabs-dev/skill-router",
+          "title": "DiscipleTools/claude-skills",
+          "url": "https://github.com/DiscipleTools/claude-skills",
           "source": "GitHub nytt repo",
-          "date": "2026-10-20 12:26",
-          "description": "Claude Code plugin: per-prompt hints naming the installed skills that fit, silent by default",
+          "date": "2026-11-24 08:10",
+          "description": "Claude Code skills for developing, releasing and security-reviewing the Disciple.Tools theme and plugins",
           "metric": "★ 1"
         },
         {
-          "title": "yaon1/claude-php-toolkit",
-          "url": "https://github.com/yaon1/claude-php-toolkit",
+          "title": "trq-lol/claude-plugin",
+          "url": "https://github.com/trq-lol/claude-plugin",
           "source": "GitHub nytt repo",
-          "date": "2026-10-20 05:44",
-          "description": "Claude Code plugin for PHP projects: safety hooks, PHPStan feedback after every edit, 25 skills, review and test subagents",
+          "date": "2026-11-24 04:57",
+          "description": "Claude Code skills for the public lol.trq Java libraries.",
           "metric": "★ 1"
         },
         {
-          "title": "KangGwonJae/ta-plugin",
-          "url": "https://github.com/KangGwonJae/ta-plugin",
+          "title": "mirackacmazcom/seo-skills",
+          "url": "https://github.com/mirackacmazcom/seo-skills",
           "source": "GitHub nytt repo",
-          "date": "2026-10-20 01:27",
-          "description": "Claude Code plugin: teaching-assistant skills that turn lecture materials or web research into middle-schooler-friendly HTML study notes, with supplements, examples, diagrams, MathJax formulas and quizzes",
-          "metric": "★ 3"
-        },
-        {
-          "title": "eggerproducoes/crivo-skill",
-          "url": "https://github.com/eggerproducoes/crivo-skill",
-          "source": "GitHub nytt repo",
-          "date": "2026-10-20 01:11",
-          "description": "Crivo: skill de segurança para Claude Code — verifica skills, plugins, MCP e pacotes antes de instalar. | Security skill for Claude Code — vets skills, plugins, MCP servers and packages before installing.",
+          "date": "2026-11-23 21:49",
+          "description": "Free SEO skills and Claude Code plugin for Claude, Codex, Cursor and other AI agents. Answers SEO questions from the Google leak, Google patents, AI and LLM patents, official Google Search docs and Google staff statements, with sources. Also a remote MCP server.",
           "metric": "★ 1"
         },
         {
-          "title": "user-github-me/soniccraft",
-          "url": "https://github.com/user-github-me/soniccraft",
+          "title": "JVMartyns/popup-skill",
+          "url": "https://github.com/JVMartyns/popup-skill",
           "source": "GitHub nytt repo",
-          "date": "2026-10-19 21:58",
-          "description": "Declarative multi-track audio engine for AI agents: YAML timelines to TTS speech, music beds and SFX with sidechain ducking, EBU R128 mastering and subtitles. CLI, MCP server, Agent Skill and Claude Code plugin.",
+          "date": "2026-11-23 14:09",
+          "description": "Agent skill: ask questions through desktop pop-ups instead of the terminal. 10 languages, Linux/macOS/Windows, Claude Code plugin.",
+          "metric": "★ 1"
+        },
+        {
+          "title": "moiz7-dev/claude-code-engineering-team",
+          "url": "https://github.com/moiz7-dev/claude-code-engineering-team",
+          "source": "GitHub nytt repo",
+          "date": "2026-11-23 07:45",
+          "description": "Claude Code engineering team (eng-team): an AI engineering team for Claude Code on GitHub. A skill and plugin with Manager, Designer, Developer and QA subagents, a QA gate, safe defaults and low token cost. Unofficial community project.",
           "metric": "★ 1"
         }
       ]
