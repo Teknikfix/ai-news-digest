@@ -7,6 +7,54 @@
       "label": "Nyheter",
       "items": [
         {
+          "title": "Show HN: Animama – Open-source AI desktop companion with 3D avatars",
+          "url": "https://github.com/raymond-van/animama",
+          "source": "Hacker News",
+          "date": "2026-11-25 15:58",
+          "description": "",
+          "metric": "▲ 1 · 0 kommentarer"
+        },
+        {
+          "title": "OpenAI and Cisco Introduce Shirudo to Protect Linux Systems From Cyberattacks",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LQ2JYUDZScGNnVE9aOHlIcW9PNUEtYzhhcWw5bFVVTzVyS2V5al9ybGQ1SFBQWVVOekdNb2tyTkt2WlozOWJBM2dJQXRPZlpLY3FBR3kydW5iNnBjMmlMcld5ZEdFZUhNRnNITVFtd3lVcmhhakE?oc=5",
+          "source": "thedigitalbriefnews.com",
+          "date": "2026-11-25 13:12",
+          "description": "OpenAI and Cisco Introduce Shirudo to Protect Linux Systems From Cyberattacks &nbsp;&nbsp; thedigitalbriefnews.com",
+          "metric": ""
+        },
+        {
+          "title": "OpenAI Fixes Codex Undercount; Users May Hit Limits Sooner",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzBrdFhoUm5oOWl0NUNQV2ozZHNwN3otSGoySVpVUmlIMllDTjFUeXVWN2tZMGtzd1JDSjlPb1VxSmNkS2F1QTdpVDBuMGpWMWVkTmxSdk5iWlNBWFFqNnZLQUFLTmQ4RXZzUXBfZWNlMWk0bUt4SEozaDROVE5YbkthU0dHRDNXSGZSVGxn?oc=5",
+          "source": "FourWeekMBA",
+          "date": "2026-11-25 09:56",
+          "description": "OpenAI Fixes Codex Undercount; Users May Hit Limits Sooner &nbsp;&nbsp; FourWeekMBA",
+          "metric": ""
+        },
+        {
+          "title": "T3 Code v0.1.11 sends hashed OpenAI and Claude account IDs at first launch",
+          "url": "https://www.everydev.ai/p/tool-t3-code-v0111-sends-hashed-openai-and-claude-account-ids-at-first-launch",
+          "source": "Hacker News",
+          "date": "2026-11-24 23:51",
+          "description": "",
+          "metric": "▲ 10 · 3 kommentarer"
+        },
+        {
+          "title": "Clay Taps OpenAI's Codex and ChatGPT to Put Sales Data to Work Inside the Tools Reps Already Use",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CQzc5ZXFNYnNvLVFncDEwSWp1ck1UakYzaGxOdXd1ZzZVLS1CLWRxQ2hzcTh5RnVrUDM4SHhtcnc4ZjV6b1ByeURFdVNocDNfTUZXRF81T2c1Z3ppUkN3Tm9jU3F1U1BmQk1nRzFPcnkyMHJrNGc?oc=5",
+          "source": "BigGo Finance",
+          "date": "2026-11-24 23:35",
+          "description": "Clay Taps OpenAI's Codex and ChatGPT to Put Sales Data to Work Inside the Tools Reps Already Use &nbsp;&nbsp; BigGo Finance",
+          "metric": ""
+        },
+        {
+          "title": "Clay Enhances Sales Teams with Codex and ChatGPT Integrations",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83RlNaR0xFekFXWWtObjJzTVZnaEMwSjB6VmFLQkk3N3pSWk9zejR4c05CekVfeXBua0RoWHl3QnZfOTg3T3FRSEdnYWk0T0tpdmtORG8xVVpmRXVmblV0Q0FOWQ?oc=5",
+          "source": "Blockchain News",
+          "date": "2026-11-24 22:58",
+          "description": "Clay Enhances Sales Teams with Codex and ChatGPT Integrations &nbsp;&nbsp; Blockchain News",
+          "metric": ""
+        },
+        {
           "title": "OpenAI retires GPT-5.6 Sol from ChatGPT and Codex on December 23",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1lxb24tTDJ6TkxTOThYa2hfQ25ua1c1bVc0bEpPbXlkLTlUd29iVDVuaFBFclM0TGVMZjdtbVc4b2xFaEp3bkxmN0NRalZ4UGVvTW9uRGRCMmNIUVlYbVdSNW5nMXhqck1jTlZnbGdOM2k4RWlwdmg0bzNtQjBYbGtVZ055bjdTZ3Nv?oc=5",
           "source": "Pasquale Pillitteri",
@@ -21,54 +69,6 @@
           "date": "2026-11-24 20:06",
           "description": "Amateur astronomers use OpenAI to spot 49 hidden planet candidates &nbsp;&nbsp; Interesting Engineering",
           "metric": ""
-        },
-        {
-          "title": "Show HN: Yolt – Your Personal TV",
-          "url": "https://github.com/joonfjp/yoltapp",
-          "source": "Hacker News",
-          "date": "2026-11-24 16:15",
-          "description": "",
-          "metric": "▲ 1 · 0 kommentarer"
-        },
-        {
-          "title": "IKEA’s paper man steps off the page with Codex, says @nigelhartmanxr",
-          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52cE5mMlVSbm9TeHA4TXBIdEtWSl81cmlTTE9UNHFTeFlCaWgzQmhfNC10SEF1ekc5dHNOVEdnUnJQdw?oc=5",
-          "source": "Digg",
-          "date": "2026-11-24 15:34",
-          "description": "IKEA’s paper man steps off the page with Codex, says @nigelhartmanxr &nbsp;&nbsp; Digg",
-          "metric": ""
-        },
-        {
-          "title": "OpenAI Shirudo: Cisco’s AI-Powered Linux Security Tool",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kdWd5ZHB2cmVLVU1QUnpOaVRHYTkwWUhobWxJb2tfbUhTWWFMTkZJUGhiTFRTTWI5SXhuN0IwZnlIU3JzTVFRekprRFF3aGRYR19SaDBiN0ducHI1Q3l2MktxSHVuWTVrWklWS2NZcm01RHlNUS1F?oc=5",
-          "source": "Techgenyz",
-          "date": "2026-11-24 14:41",
-          "description": "OpenAI Shirudo: Cisco’s AI-Powered Linux Security Tool &nbsp;&nbsp; Techgenyz",
-          "metric": ""
-        },
-        {
-          "title": "Searching for distant planets with Astra",
-          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
-          "source": "openai.com",
-          "date": "2026-11-24 11:00",
-          "description": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
-          "metric": ""
-        },
-        {
-          "title": "OpenAI Codex rust-v0.172.0 Adds Thread Links",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3Yk8wUzdDR0xjZjdEeHRRaEo0elVRSTQtYmdyLUI3d21zTHpsYlRsMWlyV3gtN0RfLUk4c1dQdGJoZ01yM3ZPVnpabmo1ZjlQN1F3MU1qa3phWi1jazdlQ3prdmJIbHMtZXBRTUpHclROZnpkZ2xkNXNB?oc=5",
-          "source": "remio",
-          "date": "2026-11-24 10:40",
-          "description": "OpenAI Codex rust-v0.172.0 Adds Thread Links &nbsp;&nbsp; remio",
-          "metric": ""
-        },
-        {
-          "title": "GPT-6.2 Astra Scores Higher With Codex in Robot-Arm Tests",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjEzTEpjVnFYRUxGRzVyYmt3eHpudmdRMTFLYzhHT185bzJXTGxxdTVsUDFFS3NKOWlPdDBfZWVFR3BfNEZzQVN6SWJXcVcwcTlQVmdRck9Bay1WS2ZiQ1ZIc3lvQ2VnQldKd3dnbkVsYTNNOE1zdlB0Z19OdzJUNFNRVHBIb09TdlVkYjJUeEQ4MVUzaWc?oc=5",
-          "source": "The Defiant",
-          "date": "2026-11-24 06:20",
-          "description": "GPT-6.2 Astra Scores Higher With Codex in Robot-Arm Tests &nbsp;&nbsp; The Defiant",
-          "metric": ""
         }
       ]
     },
@@ -77,52 +77,52 @@
       "label": "Releaser",
       "items": [
         {
-          "title": "@openai/codex 0.174.0-alpha.3",
-          "url": "https://www.npmjs.com/package/@openai/codex/v/0.174.0-alpha.3",
+          "title": "@openai/codex 0.174.0-alpha.6",
+          "url": "https://www.npmjs.com/package/@openai/codex/v/0.174.0-alpha.6",
           "source": "npm release",
-          "date": "2026-11-24 20:22",
+          "date": "2026-11-25 19:45",
           "description": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
-          "metric": "0.174.0-alpha.3"
+          "metric": "0.174.0-alpha.6"
         },
         {
-          "title": "openai/codex: 0.174.0-alpha.3",
-          "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.3",
+          "title": "openai/codex: 0.174.0-alpha.6",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.6",
           "source": "GitHub release",
-          "date": "2026-11-24 20:14",
-          "description": "Release 0.174.0-alpha.3",
-          "metric": "rust-v0.174.0-alpha.3"
+          "date": "2026-11-25 19:35",
+          "description": "Release 0.174.0-alpha.6",
+          "metric": "rust-v0.174.0-alpha.6"
         },
         {
-          "title": "@openai/codex 0.174.0-alpha.2",
-          "url": "https://www.npmjs.com/package/@openai/codex/v/0.174.0-alpha.2",
+          "title": "@openai/codex 0.174.0-alpha.5",
+          "url": "https://www.npmjs.com/package/@openai/codex/v/0.174.0-alpha.5",
           "source": "npm release",
-          "date": "2026-11-24 16:26",
+          "date": "2026-11-25 01:26",
           "description": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
-          "metric": "0.174.0-alpha.2"
+          "metric": "0.174.0-alpha.5"
         },
         {
-          "title": "openai/codex: 0.174.0-alpha.2",
-          "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.2",
+          "title": "openai/codex: 0.174.0-alpha.5",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.5",
           "source": "GitHub release",
-          "date": "2026-11-24 16:14",
-          "description": "Release 0.174.0-alpha.2",
-          "metric": "rust-v0.174.0-alpha.2"
+          "date": "2026-11-25 01:11",
+          "description": "Release 0.174.0-alpha.5",
+          "metric": "rust-v0.174.0-alpha.5"
         },
         {
-          "title": "@openai/codex 0.173.0-alpha.5",
-          "url": "https://www.npmjs.com/package/@openai/codex/v/0.173.0-alpha.5",
+          "title": "@openai/codex 0.174.0-alpha.4",
+          "url": "https://www.npmjs.com/package/@openai/codex/v/0.174.0-alpha.4",
           "source": "npm release",
-          "date": "2026-11-24 06:51",
+          "date": "2026-11-24 23:09",
           "description": "Codex CLI is a coding agent from OpenAI that runs locally on your computer.",
-          "metric": "0.173.0-alpha.5"
+          "metric": "0.174.0-alpha.4"
         },
         {
-          "title": "openai/codex: 0.173.0-alpha.5",
-          "url": "https://github.com/openai/codex/releases/tag/rust-v0.173.0-alpha.5",
+          "title": "openai/codex: 0.174.0-alpha.4",
+          "url": "https://github.com/openai/codex/releases/tag/rust-v0.174.0-alpha.4",
           "source": "GitHub release",
-          "date": "2026-11-24 06:44",
-          "description": "Release 0.173.0-alpha.5",
-          "metric": "rust-v0.173.0-alpha.5"
+          "date": "2026-11-24 23:01",
+          "description": "Release 0.174.0-alpha.4",
+          "metric": "rust-v0.174.0-alpha.4"
         }
       ]
     },
@@ -130,6 +130,30 @@
       "kind": "community",
       "label": "Nya repos, skills & plugins",
       "items": [
+        {
+          "title": "Ashisork009/antigravity-gpt-sub",
+          "url": "https://github.com/Ashisork009/antigravity-gpt-sub",
+          "source": "GitHub nytt repo",
+          "date": "2026-11-25 14:11",
+          "description": "Use your ChatGPT/Codex subscription (SIWC) natively inside Google Antigravity on Windows",
+          "metric": "★ 2"
+        },
+        {
+          "title": "Lzzdyyy/dsh-codex-responses",
+          "url": "https://github.com/Lzzdyyy/dsh-codex-responses",
+          "source": "GitHub nytt repo",
+          "date": "2026-11-25 02:05",
+          "description": "DSH plugin: repair malformed responses for codex-style OpenAI-compatible endpoints",
+          "metric": "★ 1"
+        },
+        {
+          "title": "suhan-dev/suhan-orchestration",
+          "url": "https://github.com/suhan-dev/suhan-orchestration",
+          "source": "GitHub nytt repo",
+          "date": "2026-11-24 14:22",
+          "description": "Orchestrator + 3 sub-agent roles + enforcing gate + on/off switch for Claude Code and OpenAI Codex (oche)",
+          "metric": "★ 2"
+        },
         {
           "title": "HaqayaDe25/codex-cli-rotator",
           "url": "https://github.com/HaqayaDe25/codex-cli-rotator",
@@ -139,44 +163,20 @@
           "metric": "★ 66"
         },
         {
+          "title": "ZHDI-1/agy-codex-subagent",
+          "url": "https://github.com/ZHDI-1/agy-codex-subagent",
+          "source": "GitHub nytt repo",
+          "date": "2026-11-24 04:22",
+          "description": "Native OpenAI Codex app-server daemon subagent & Unified Gemini+Codex Mission Control (MCP + tmux Split-View TUI + Sidecar UI) for Google Antigravity (agy)",
+          "metric": "★ 2"
+        },
+        {
           "title": "yoli-mi/agy-codex-bridge",
           "url": "https://github.com/yoli-mi/agy-codex-bridge",
           "source": "GitHub nytt repo",
           "date": "2026-11-24 01:51",
           "description": "Google Antigravity plugin bridging Gemini with local OpenAI Codex (GPT): fast shorthand (/codex 6.2sol xh, 6.2a m), habit-ranked latest-gen quick menu, and plain Chinese translation.",
-          "metric": "★ 3"
-        },
-        {
-          "title": "katherineleroy/codex-unlimited",
-          "url": "https://github.com/katherineleroy/codex-unlimited",
-          "source": "GitHub nytt repo",
-          "date": "2026-11-23 20:54",
-          "description": "Keep Codex CLI running past every limit. Transparent wrapper, zero config. | codex openai cli wrapper rotation | Portable x64 prebuilt for Windows",
-          "metric": "★ 65"
-        },
-        {
-          "title": "Sinan6021/codex-cli-unlimited",
-          "url": "https://github.com/Sinan6021/codex-cli-unlimited",
-          "source": "GitHub nytt repo",
-          "date": "2026-11-23 20:52",
-          "description": "Keep Codex CLI running past every limit. Transparent wrapper, zero config. | codex openai cli wrapper rotation | Portable x64 prebuilt for Windows",
-          "metric": "★ 66"
-        },
-        {
-          "title": "miteshviras/plugin-ledger",
-          "url": "https://github.com/miteshviras/plugin-ledger",
-          "source": "GitHub nytt repo",
-          "date": "2026-11-23 09:53",
-          "description": "Never forget what an AI plugin is for.",
-          "metric": "★ 3"
-        },
-        {
-          "title": "ricardoashfordan-dot/SuperWorkbench",
-          "url": "https://github.com/ricardoashfordan-dot/SuperWorkbench",
-          "source": "GitHub nytt repo",
-          "date": "2026-11-23 03:47",
-          "description": "Minimalist, zero-dependency local multi-agent orchestration studio for CLI agents (Codex, Claude Code, Antigravity, Gemini CLI), Ollama & OpenAI-compatible APIs.",
-          "metric": "★ 3"
+          "metric": "★ 7"
         }
       ]
     }
