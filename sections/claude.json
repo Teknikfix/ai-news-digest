@@ -7,144 +7,127 @@
       "label": "Nyheter",
       "items": [
         {
-          "title": "Load balancing across AI subscriptions",
-          "url": "https://news.ycombinator.com/item?id=50648330",
+          "title": "EtherPK Kanban Board Hands Markdown Tasks to Claude Code",
+          "url": "https://emergent.sh/news/etherpk-kanban-board-hands-markdown-tasks",
           "source": "Hacker News",
-          "date": "2026-11-25 22:12",
+          "date": "2026-11-27 21:29",
           "description": "",
           "metric": "▲ 1 · 0 kommentarer"
         },
         {
-          "title": "Anthropic rolls out 'Install as app' feature for Claude artifacts",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV2U3ZHRQTEJaMzlrQ21fTWkxZ0tYWjZhR05mTDc0eDR0WjdLcUx0ZjhJOGloWVFoODlGVGhsYzFwMDBGQlpJcVdtWWhMbHZ1cXhQczV1ODF2OE8yWlZZYWs1NG5Db091M0RZRFVfYzJTanNnSVMyNlFLc3pWX3hMVk1YczVNZUczRExib3M3cXJHOUdzdEtPQmFqY0c2TFc0dk9CMk4wTUFWUzExVXc?oc=5",
-          "source": "디지털투데이",
-          "date": "2026-11-25 21:36",
-          "description": "Anthropic rolls out 'Install as app' feature for Claude artifacts &nbsp;&nbsp; 디지털투데이",
+          "title": "Claude accused of sabotaging ML research, an Anthropic employee responds",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnRYbW5ITG5uMU5ra3JyeWtHLTBZamx5alM2QTJQay1LSnd1Q2RadG5SQVo2OUZCcEZTQ05nc0wtdzJEb0gtbmlCNy05a09TRXRWYk9JMjNGY3VRWXE2UC1PcS0tWTdDTTN2MC05aVZOZ2NENEt6SHJaN29zSUVJX25ONWN5MHRFXzNWRUF3Z2RpamhFczBiN0VwWUMtcDF4TlE5M0J5MHVQNGIyRGc?oc=5",
+          "source": "Pasquale Pillitteri",
+          "date": "2026-11-27 21:13",
+          "description": "Claude accused of sabotaging ML research, an Anthropic employee responds &nbsp;&nbsp; Pasquale Pillitteri",
           "metric": ""
         },
         {
-          "title": "AI token prices fell 47% in nine months, but businesses spend more",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXdllOT0hVUHU3UjFYdktzSV9XYzdVMTJZWV9WNWEyZm5BX0hyMVB4LTNIOTlOLTJGdWNEZzRVanlmenY3dTlwZWl2MmZiWEJIZlpMZFdHNjRTZERESGllZHJ1cjNYNlNZVW9nYUhQcFBLUUk?oc=5",
-          "source": "Quartz",
-          "date": "2026-11-25 21:20",
-          "description": "AI token prices fell 47% in nine months, but businesses spend more &nbsp;&nbsp; Quartz",
+          "title": "Activist Extends Hunger Strike Against Anthropic AI Research",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBBVFdEeHpfVEJVQm1kblp0RFNkS09pcHJrR19vbEM4MUpsemZCY0RWR2RFOGRONVRaVDZiOHoxUThYSjNYenFucEdwbmZlLXQ3Yi02QUlWRl9uUnREbWdJbXAtV3RUZw?oc=5",
+          "source": "cwibc.co.id",
+          "date": "2026-11-27 20:21",
+          "description": "Activist Extends Hunger Strike Against Anthropic AI Research &nbsp;&nbsp; cwibc.co.id",
           "metric": ""
         },
         {
-          "title": "Anthropic's customers are doing what a leaked Google memo predicted",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EdS00NHNvMkEtbU9kYVVzb0x0M1NiVlFId3hMeFJYYWwzc3pqVy15XzdCcEE2TWZ0bkdoZEI5TVBoUFRub3hSSmFoVlpVc1lNU0xXWnJ0N2hBT1RvbmdKQkltc19iYlZWWmhFOXB6dG50bGdFY3E2cG82NEQ4Zw?oc=5",
-          "source": "Quartz",
-          "date": "2026-11-25 21:19",
-          "description": "Anthropic's customers are doing what a leaked Google memo predicted &nbsp;&nbsp; Quartz",
+          "title": "Show HN: ClawdTime, a CUA agent for long tasks that FaceTimes you when stuck",
+          "url": "https://www.clawdtime.com/",
+          "source": "Hacker News",
+          "date": "2026-11-27 19:52",
+          "description": "",
+          "metric": "▲ 3 · 2 kommentarer"
+        },
+        {
+          "title": "Show HN: Free audiobook and eBook with the story of recent discoveries in math",
+          "url": "https://labs.opentangle.com/after-proof/",
+          "source": "Hacker News",
+          "date": "2026-11-27 19:44",
+          "description": "",
+          "metric": "▲ 1 · 0 kommentarer"
+        },
+        {
+          "title": "Dating App CEO Says Claude Sabotaged Code",
+          "url": "https://officechai.com/ai/dating-app-ceo-says-claude-ignored-ethnicity-skin-tone-preferences-sabotaged-iq-estimation-while-building-its-app/",
+          "source": "Hacker News",
+          "date": "2026-11-27 19:42",
+          "description": "",
+          "metric": "▲ 6 · 2 kommentarer"
+        },
+        {
+          "title": "If Claude won’t do the work, it should say so",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Zbm1vcC00bWR2Z3dWLWg0Q3BBdDd4ckFFdjhjX0lNWmN0c2NjQ0xZX21hVW1FU3h5cTlVTUJSZ1NCZ0VhTFhFbTlwdjRUSUhSdFhqY0RPNUlzOUloaW82RmRJUTdkdFBKWGxjN1J3bw?oc=5",
+          "source": "Kingy AI",
+          "date": "2026-11-27 19:19",
+          "description": "If Claude won’t do the work, it should say so &nbsp;&nbsp; Kingy AI",
           "metric": ""
         },
         {
-          "title": "AI company employees warn internal models are too powerful to safely release: report",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNR1k0UDhWeHY4NEdmaXpBdFpGYVRwQ0w1VkJYMEFGb3FEaEtmdkVqRy1SVGh6TTB6T1BpMzB3d0VjZUE4Qk41UUlrWE1xay0zNklVNUF3SU1nVFNyd2QxOVg1bjZuRGg3WGtaYkQ1QW9ndXNjQ21xcEhaWDBJOGRTd0FUd0V3a3p4RjEzcG91RGxBa0xfRm1aaWh2am9RUy12SEViaGZ3aFBPZ1A1dXpxVWpaUjRJOTJZSXdtcDFFTzVWWmJzNnhIb05kemlQOHJMT216cXZ0Q1BXakE4SWRTMw?oc=5",
-          "source": "WKEF",
-          "date": "2026-11-25 21:01",
-          "description": "AI company employees warn internal models are too powerful to safely release: report &nbsp;&nbsp; WKEF",
-          "metric": ""
-        },
-        {
-          "title": "Kalshi reports pre-IPO Claude traffic high; Techmeme cites Dario Amodei's reported OpenAI-era comment on immersive games",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5IWHlGbWtRcV9reURqbjVaLWNMMjNaMDZPS1RzSkxidkJFSHFTN1lsTDA4bnQ5aWg1Ni1MSWdJY2ZRQVdK?oc=5",
-          "source": "Digg",
-          "date": "2026-11-25 20:52",
-          "description": "Kalshi reports pre-IPO Claude traffic high; Techmeme cites Dario Amodei's reported OpenAI-era comment on immersive games &nbsp;&nbsp; Digg",
-          "metric": ""
-        },
-        {
-          "title": "Is Claude Opus 5.6 out? Not officially: Anthropic has announced nothing, but testers say they have seen it",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2tnTDZPMS1vTk5rYkZudEdpR29MdlowQno2Vkk1STJOQ1ZZbXlUS201R2RXNzNya0VZbktZWWhVTFgtZjNtMUhBUWg0TVZYMVJacGU5ZzZnVmd6ZElud1lwRy1PSmlUUnhzaDZNSGl6SzgzTjdSYkFRcndydEVlbjBwaXNudVlJSW9FR1pfdEFTbGk3NXdUaHEtZmhsYVU?oc=5",
-          "source": "Nacionale",
-          "date": "2026-11-25 20:31",
-          "description": "Is Claude Opus 5.6 out? Not officially: Anthropic has announced nothing, but testers say they have seen it &nbsp;&nbsp; Nacionale",
-          "metric": ""
-        },
-        {
-          "title": "Anthropic’s Siren Evaluation Exposes Security Risks in Agentic AI",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcDFmcXdyUHBlaUhsY1ZTVjhER3FpOWNFZmJKSURNMTBTUWRZN0VteF9YMlFyUUFsU3VqM3o1VWxwMTk3Y2wtWlhISlJzZFhJeUFPSXlUWFJLc3MxTEYyZnRGUFllWHZLU0hpelc4ODZfeGdaQ2tPOEgzazRkNmJ4ZEVXbDIzeDJQT2lTMV9nWFhCeVdmM0hNYXlBQnBJZzJMX3QxMzBB?oc=5",
-          "source": "Security Boulevard",
-          "date": "2026-11-25 20:29",
-          "description": "Anthropic’s Siren Evaluation Exposes Security Risks in Agentic AI &nbsp;&nbsp; Security Boulevard",
-          "metric": ""
+          "title": "Claude Code Skills Now Sharable Across Teams",
+          "url": "https://emergent.sh/news/claude-code-skills-now-sharable-across-teams",
+          "source": "Hacker News",
+          "date": "2026-11-27 18:36",
+          "description": "",
+          "metric": "▲ 7 · 0 kommentarer"
         }
       ]
     },
     {
       "kind": "release",
       "label": "Releaser",
-      "items": [
-        {
-          "title": "anthropics/claude-code v2.1.332",
-          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.332",
-          "source": "GitHub release",
-          "date": "2026-11-25 01:32",
-          "description": "## What's changed - Added skills from MCP servers (beta). They show as `server:skill` in the `/` menu; other skills keep their names - Added a `PreSkillShellCommand` hook event that can refuse a skill or command's inline shell commands as it loads; on 2.1.331 and older, a settings file naming it ope",
-          "metric": "v2.1.332"
-        },
-        {
-          "title": "@anthropic-ai/claude-code 2.1.332",
-          "url": "https://www.npmjs.com/package/@anthropic-ai/claude-code/v/2.1.332",
-          "source": "npm release",
-          "date": "2026-11-24 22:06",
-          "description": "Use Claude, Anthropic's AI assistant, right from your terminal. Claude can understand your codebase, edit files, run terminal commands, and handle entire workflows for you.",
-          "metric": "2.1.332"
-        }
-      ]
+      "items": []
     },
     {
       "kind": "community",
       "label": "Nya repos, skills & plugins",
       "items": [
         {
-          "title": "eust-w/open-robotics-plugin",
-          "url": "https://github.com/eust-w/open-robotics-plugin",
+          "title": "mbello1998/antigravity-skills",
+          "url": "https://github.com/mbello1998/antigravity-skills",
           "source": "GitHub nytt repo",
-          "date": "2026-11-25 17:42",
-          "description": "Robotics agent skills (MuJoCo, perception, planning, sim2real, bring-up) for Claude Code, Antigravity, Codex, Gemini CLI, Cursor and more. Adapted from google-deepmind/robotics-antigravity-plugin (Apache-2.0).",
+          "date": "2026-11-27 15:11",
+          "description": "Claude Code skills, plugins e subagents convertidos para o Google Antigravity — 129 skills, 26 subagents, 4 plugins",
           "metric": "★ 1"
         },
         {
-          "title": "SpatariuRares/agent-config-manager",
-          "url": "https://github.com/SpatariuRares/agent-config-manager",
+          "title": "orinotebook/ori-plugins",
+          "url": "https://github.com/orinotebook/ori-plugins",
           "source": "GitHub nytt repo",
-          "date": "2026-11-25 10:12",
-          "description": "One local panel to see and manage Claude Code, Codex, Gemini CLI and Copilot CLI: plugins, skills, agents, MCP servers and hooks.",
-          "metric": "★ 2"
-        },
-        {
-          "title": "toresoysal/wow-forever-addon-creator",
-          "url": "https://github.com/toresoysal/wow-forever-addon-creator",
-          "source": "GitHub nytt repo",
-          "date": "2026-11-24 22:31",
-          "description": "Claude Code plugin for building WoW Forever / WoW addons: skill, UI + mechanics + review agents, offline test gates",
+          "date": "2026-11-27 13:02",
+          "description": "Ori Notebook skills for Claude Code, Codex, Cursor and other agents.",
           "metric": "★ 1"
         },
         {
-          "title": "JayeshJain25/flutter-current",
-          "url": "https://github.com/JayeshJain25/flutter-current",
+          "title": "expl01t-search/exteragram-plugin-skill",
+          "url": "https://github.com/expl01t-search/exteragram-plugin-skill",
           "source": "GitHub nytt repo",
-          "date": "2026-11-24 14:51",
-          "description": "Agent Skill / Claude Code plugin that keeps coding agents on current Flutter & Dart APIs",
+          "date": "2026-11-26 15:25",
+          "description": "AI agent skill for exteraGram plugins: write, fix, speed up, port, build Elyx and publish. Works with Claude Code, Codex CLI and AGENTS.md agents.",
+          "metric": "★ 3"
+        },
+        {
+          "title": "oliverassad/oa-agents",
+          "url": "https://github.com/oliverassad/oa-agents",
+          "source": "GitHub nytt repo",
+          "date": "2026-11-26 10:30",
+          "description": "Shared Claude Code plugin: agents, skills, rules",
           "metric": "★ 1"
         },
         {
-          "title": "DiscipleTools/claude-skills",
-          "url": "https://github.com/DiscipleTools/claude-skills",
+          "title": "Oal36ar/ytmaxxing",
+          "url": "https://github.com/Oal36ar/ytmaxxing",
           "source": "GitHub nytt repo",
-          "date": "2026-11-24 08:10",
-          "description": "Claude Code skills for developing, releasing and security-reviewing the Disciple.Tools theme and plugins",
-          "metric": "★ 1"
+          "date": "2026-11-26 05:37",
+          "description": "Turn long YouTube videos into skills, knowledge and outcomes your AI agents can use. MCP server + CLI + Claude Code plugin.",
+          "metric": "★ 5"
         },
         {
-          "title": "trq-lol/claude-plugin",
-          "url": "https://github.com/trq-lol/claude-plugin",
+          "title": "jyjyxt/awesome-agent-extensions",
+          "url": "https://github.com/jyjyxt/awesome-agent-extensions",
           "source": "GitHub nytt repo",
-          "date": "2026-11-24 04:57",
-          "description": "Claude Code skills for the public lol.trq Java libraries.",
-          "metric": "★ 1"
+          "date": "2026-11-26 02:41",
+          "description": "Curated cross-platform directory of Claude Code plugins, Agent Skills, MCP servers, subagents, and extension tools for AI coding workflows.",
+          "metric": "★ 15"
         }
       ]
     }
